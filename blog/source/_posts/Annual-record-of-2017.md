@@ -65,4 +65,4 @@ categories:
 像我这样不甘平凡的人    
 像我这样莫名其妙的人   
 
-<div align = right> <font size = 2>以上文字引用略有删改 </font> </div>
+<div align = right> <font size = 2>以上文字引用时略有删改 </font> </div>
