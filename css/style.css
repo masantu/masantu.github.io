@@ -471,6 +471,9 @@ figcaption {
   line-height: 1.5;
   color: #999;
 }
+.down-icon {
+  margin-top: 0.2em;
+}
 article .container .row img {
   max-width: 100% !important;
   height: auto;
