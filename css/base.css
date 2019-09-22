@@ -477,9 +477,16 @@ figcaption {
 .gotop {
   position: fixed;
   bottom: 50px;
-  right: 30px;
   text-align: center;
-  z-index: 100;
+  background-color: #fff;
+  right: 100px;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 0 0 6px rgba(0,0,0,0.12);
+  z-index: 5;
 }
 .gotop a {
   display: block;
