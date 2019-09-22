@@ -477,9 +477,9 @@ figcaption {
 .gotop {
   position: fixed;
   bottom: 50px;
+  right: 10px;
   text-align: center;
   background-color: #fff;
-  right: 100px;
   width: 40px;
   height: 40px;
   border-radius: 20px;
