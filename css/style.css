@@ -298,6 +298,7 @@ hr.small {
   font-size: 15px;
   margin-top: 30px;
   margin-bottom: 30px;
+  display: inline-flex;
 }
 .post-tags a,
 .post-categories a {
