@@ -4,4 +4,6 @@
 ## TODO
 - 代码高亮
 - footer
-- 赞赏
+~~赞赏~~
+- [ ] 标签云 参考cantus
+- [ ] 文章置顶 参考freemind
