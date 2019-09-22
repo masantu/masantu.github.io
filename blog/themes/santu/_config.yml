@@ -5,9 +5,6 @@ menu:
   Tags: /tags
   Categories: /categories
   About: /about
-  Github:
-    url: https://github.com/masantu
-    icon: github
   Feedback:
     url: https://support.qq.com/product/67072
     icon: commenting
@@ -52,6 +49,5 @@ github_url: https://github.com/masantu
 mailto: imsantu.ma@gmail.com
 film: https://movie.douban.com/people/imoyao/
 zhihu: https://www.zhihu.com/people/imoyao/
-github: https://github.com/imoyao
 gitlab_url:
 linkedin_url:
