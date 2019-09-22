@@ -481,7 +481,7 @@ figcaption {
   text-align: center;
   background-color: #fff;
   width: 40px;
-  height: 40px;
+  line-height: 40px;
   border-radius: 20px;
   cursor: pointer;
   transition: 0.3s;
