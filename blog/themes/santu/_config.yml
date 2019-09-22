@@ -8,6 +8,9 @@ menu:
   Github:
     url: https://github.com/masantu
     icon: github
+  Feedback:
+    url: https://support.qq.com/product/67072
+    icon: commenting
 
 # Title on top left of menu. Leave empty to use main blog title
 menu_title: SanTu

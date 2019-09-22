@@ -17,13 +17,16 @@
             <ul class="nav navbar-nav navbar-right">
                 <% for (var i in theme.menu){ %>
                     <li>
-                        <a href="<%- theme.menu[i].url ? url_for(theme.menu[i].url) : url_for(theme.menu[i]) %>">
-                            <% if (theme.menu[i].icon) { %>
+
+                        <% if (theme.menu[i].icon) { %>
+                            <a target="_blank" href="<%- theme.menu[i].url ? url_for(theme.menu[i].url) : url_for(theme.menu[i]) %>">
                                 <i class="fa fa-<%= theme.menu[i].icon %> fa-stack-2x"></i>
-                            <% } else { %>
-                                <%= i %>
-                            <% } %>
-                        </a>
+                            </a>
+                        <% } else { %>
+                            <a href="<%- theme.menu[i].url ? url_for(theme.menu[i].url) : url_for(theme.menu[i]) %>">
+                            <%= i %>
+                            </a>
+                        <% } %>
                     </li>
                 <% } %>
             </ul>

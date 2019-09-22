@@ -38,6 +38,7 @@
            <% if (item.categories && item.categories.length || item.tags && item.tags.length) { %>
                 <div class="col-lg-4 col-lg-offset-2 col-md-5 col-md-offset-1 post-tags">
                     <% if (item.tags && item.tags.length){ %>
+                        <i class="fa fa-tag"></i>
                         <%- partial('article-tags', {item: item}) %>
                     <% } else { %>
                         <%- partial('article-categories', {item: item}) %>
@@ -45,6 +46,7 @@
                 </div>
                 <div class="col-lg-4 col-md-5 post-categories">
                     <% if (item.tags && item.tags.length && item.categories && item.categories.length){ %>
+                        <i class="fa fa-archive"></i>
                         <%- partial('article-categories', {item: item}) %>
                     <% } %>
                 </div>

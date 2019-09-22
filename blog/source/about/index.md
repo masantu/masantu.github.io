@@ -5,9 +5,7 @@ cover: /img/about-bg.jpg
 author: 西风不瘦
 ---
 ![病木重生](images/A-withered-tree-comes-to-life-again.jpg)
-<center>
-    <span> 2018 年摄于北京·香山</span>
-</center>
+<figcaption > 2018 年摄于北京·香山</figcaption >
 
 <div class="big-head">
   <i class="fa fa-user"></i>    自述
@@ -65,7 +63,7 @@ author: 西风不瘦
 <sup>①</sup> 给 comp.lang.python Usenet 小组的留言，2002 年 12 月 23 日，“Acrimony in c.l.p”。
 
 <div class="big-head">
-  <i class="fa fa-handshake"></i>   联系方式
+  <i class="fa fa-comments"></i>   联系方式
 </div>
 
 - Email: immoyao#gmail.com
@@ -73,6 +71,7 @@ author: 西风不瘦
 - Others: imoyao or None :-)
 - 个人公众号：  
 ![别院牧志](https://open.weixin.qq.com/qr/code?username=idealyard)
+<figcaption> IdealYard </figcaption>
 
 
 <div class="big-head">
