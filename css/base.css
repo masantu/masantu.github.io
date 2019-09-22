@@ -314,6 +314,9 @@ hr.small {
   text-decoration: none;
   border-bottom: none;
 }
+.post-categories {
+  float: right;
+}
 .archive-before-pagination {
   height: 30px;
 }
@@ -459,4 +462,13 @@ body {
 }
 .icon-m-right {
   margin-right: 0.3em;
+}
+figcaption {
+  text-align: center;
+  margin-top: 0.66667em;
+  margin-bottom: 0.66667em;
+  padding: 0 1em;
+  font-size: 0.9em;
+  line-height: 1.5;
+  color: #999;
 }
