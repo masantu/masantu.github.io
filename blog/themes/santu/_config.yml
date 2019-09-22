@@ -1,0 +1,54 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  Tags: /tags
+  Categories: /categories
+  About: /about
+  Github:
+    url: https://github.com/masantu
+    icon: github
+
+# Title on top left of menu. Leave empty to use main blog title
+menu_title: SanTu
+
+# URL of the Home page image
+index_cover: /img/home-bg.jpeg
+archive_cover: /img/home-bg-color-sea.jpeg
+tags_cover: /img/home-bg-starry-sky.jpeg
+categories_cover: /img/home-bg-color-sea.jpeg
+#index_cover: /img/home-bg-color-sea.jpeg
+#index_cover: /img/home-bg-starry-sky.jpeg
+#index_cover: /img/pexels-photo-2356087.jpeg
+
+# Default post title
+default_post_title: 无题
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname:
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Addthis ID
+addthis:
+
+# set your own favicon
+favicon: /img/favicon.ico
+
+# Social Accounts
+
+github_url: https://github.com/masantu
+mailto: imsantu.ma@gmail.com
+film: https://movie.douban.com/people/imoyao/
+zhihu: https://www.zhihu.com/people/imoyao/
+github: https://github.com/imoyao
+gitlab_url:
+linkedin_url:
