@@ -11,19 +11,32 @@
         title = __('categories');
     }
 %>
-
-<% if (isTagIndex || isCategoryIndex) { %>
-    <header class="intro-header" style="background-image: url('<%- theme.tags_cover %>')">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <div class="site-heading">
-                        <h1><%- page.title %></h1>
+    <% if (isTagIndex || isCategoryIndex) { %>
+    <% if (isTagIndex) { %>
+        <header class="intro-header" style="background-image: url('<%- theme.tags_cover %>')">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                        <div class="site-heading">
+                            <h1><%- page.title %></h1>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </header>
+        </header>
+    <% } else if (isCategoryIndex) { %>
+        <header class="intro-header" style="background-image: url('<%- theme.categories_cover %>')">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                        <div class="site-heading">
+                            <h1><%- page.title %></h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+    <% } %>
 
     <!-- Main Content -->
     <div class="container">

@@ -1,9 +1,10 @@
-# 欢迎访问`SanTu`的个人博客！[别院牧志](http://blog.masantu.com/)
+# 欢迎访问`SanTu`的个人博客！[IdealYard](http://blog.masantu.com/)
 这是一个[hexo-theme-clean-blog](https://github.com/klugjo/hexo-theme-clean-blog)生成的静态网站；
 你可以在`hexo`分支看到本网站的源码
 ## TODO
 - 代码高亮
 - footer
 ~~赞赏~~
-- [ ] 标签云 参考cantus
 - [ ] 文章置顶 参考freemind
+- [ ] 标签云 参考cantus
+- [ ] 使用`Flask`实现现代化文章发表
