@@ -5,6 +5,6 @@
 - 代码高亮
 - footer
 ~~赞赏~~
+- [x] 标签云 参考cantus
 - [ ] 文章置顶 参考freemind
-- [ ] 标签云 参考cantus
 - [ ] 使用`Flask`实现现代化文章发表

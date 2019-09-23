@@ -499,3 +499,6 @@ figcaption {
 .gotop a:hover {
   opacity: 0.8;
 }
+.color-span {
+  background-color: #409eff;
+}
