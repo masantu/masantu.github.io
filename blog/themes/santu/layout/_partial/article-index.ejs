@@ -10,6 +10,11 @@
         <% } %>
     </a>
     <p class="post-meta">
+        <% if(item.top) { %>
+            <i class="fa fa-thumb-tack slogan"></i>
+            <span class="badge color-span"><%- __('pin')%></span>
+            <span class="post-meta-divider"> | </span>
+        <% } %>
         <!-- Date and Author -->
         <% if(item.author) { %>
             Posted by <%- item.author %> on
