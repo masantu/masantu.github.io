@@ -4,6 +4,8 @@ date: 2019-01-22 10:25:36
 cover: /images/SurfboardRow_ZH-CN5154549470_1920x1080.jpg
 author: 西风不瘦
 tags:
+- 原创
+- 记录
 - Diary
 categories:
 - 个人日记

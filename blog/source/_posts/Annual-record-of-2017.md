@@ -3,6 +3,8 @@ title: 2017 年过去了，我很怀念它
 date: 2017-12-28 12:26:38
 cover: /images/CommonLoon_ZH-CN5437917206_1920x1080.jpg
 tags:
+- 原创
+- 记录
 - Diary
 author: 西风不瘦
 categories:
