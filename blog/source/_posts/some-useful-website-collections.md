@@ -12,7 +12,7 @@ tags:
 - [自动生成 favicon](https://www.favicon-generator.org/)
 
 ## 图片类
-- [bing壁纸](https://bing.ioliu.cn/)
+- [bing 壁纸](https://bing.ioliu.cn/)
 - [Pexels](https://www.pexels.com/)
 
 ## 搜索类
@@ -23,7 +23,7 @@ tags:
     一个基于开源项目 `Searx` 进行二次开发的可以保护个人隐私的网络搜索服务。
 - [Seeres Search](https://seeres.com)   
 ### 自定义设置搜索引擎
-```
+```plain
 多吉搜索字符串：https://dogedoge.com/results?q=%s
 秘迹搜索字符串：https://mijisou.com/search?q=%s
 Seeres 搜索字符串：https://seeres.com/search?q=%s
