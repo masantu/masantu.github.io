@@ -5,6 +5,9 @@
 - 代码高亮
 - footer
 ~~赞赏~~
-- [x] 标签云 参考cantus
-- [ ] 文章置顶 参考freemind
+- [x] 标签云
+- [x] 文章置顶
+    [支持置顶的仓库:hexo-generator-index-pin-top](https://github.com/netcan/hexo-generator-index-pin-top)
+- [ ] 本地搜索
+    [参考](https://moxfive.xyz/2016/05/31/hexo-local-search/)
 - [ ] 使用`Flask`实现现代化文章发表
