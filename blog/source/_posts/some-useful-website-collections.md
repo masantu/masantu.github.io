@@ -10,6 +10,7 @@ tags:
 ## 工具类
 - [BgRemover - 在线图片去底工具 - 将纯色背景的图片转换为背景透明的图片](http://www.aigei.com/bgremover/)
 - [自动生成 favicon](https://www.favicon-generator.org/)
+- [GTmetrix-前端优化加速](https://gtmetrix.com)
 
 ## 图片类
 - [bing 壁纸](https://bing.ioliu.cn/)
