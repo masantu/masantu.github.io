@@ -1,4 +1,4 @@
-# 欢迎访问`SanTu`的个人博客！[IdealYard](masantu.github.io)
+# 欢迎访问`SanTu`的个人博客！[IdealYard](https://masantu.github.io)
 这是一个仿照[clean-blog](https://startbootstrap.com/themes/clean-blog/)生成的静态网站；
 [hexo-theme-clean-blog](https://github.com/klugjo/hexo-theme-clean-blog)
 [国内版](https://github.com/Huxpro/huxpro.github.io)
