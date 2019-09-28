@@ -2,7 +2,7 @@
 
 这是一份拷贝！
 
-Hexo implementation of [Clean Blog](http://blackrockdigital.github.io/startbootstrap-clean-blog/index.html)
+Hexo implementation of [Clean Blog](//blackrockdigital.github.io/startbootstrap-clean-blog/index.html)
 
 Clean blog is a full featured, responsive Hexo theme. [Copy from here](https://github.com/klugjo/hexo-theme-clean-blog).
 
@@ -19,8 +19,8 @@ Clean blog is a full featured, responsive Hexo theme. [Copy from here](https://g
 
 ## External libraries used
 
-- [Bootstrap](http://getbootstrap.com/css/)
-- [FeatherLight.js](http://noelboss.github.io/featherlight/) (Gallery)
+- [Bootstrap](//getbootstrap.com/css/)
+- [FeatherLight.js](//noelboss.github.io/featherlight/) (Gallery)
 - [jQuery](https://jquery.com/)
 
 ## Installation
@@ -237,7 +237,7 @@ menu:
 
 ## Creator
 
-This theme was created by [Blackrock Digital](https://github.com/BlackrockDigital) and adapted for Hexo by [Jonathan Klughertz](http://www.codeblocq.com/).
+This theme was created by [Blackrock Digital](https://github.com/BlackrockDigital) and adapted for Hexo by [Jonathan Klughertz](//www.codeblocq.com/).
 
 ## License
 
