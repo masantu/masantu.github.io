@@ -78,6 +78,4 @@ author: 西风不瘦
 <div class="big-head">
   <i class="fa fa-copyright"></i>   版权声明 <sub>（特殊声明除外）</sub>
 </div>
-    <center>
-        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本博客作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
-    </center>
+本博客（指子域名`blog.masantu.com`）下的所有文章仅供用户免费浏览、阅读，不支持无版权转载。如确有转载需求，请通过上方邮箱联系本人，征得本人同意后方可转载。
