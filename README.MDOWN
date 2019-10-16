@@ -1,12 +1,14 @@
 # 欢迎访问`SanTu`的个人博客！[IdealYard](https://masantu.github.io)
 这是一个仿照[clean-blog](https://startbootstrap.com/themes/clean-blog/)生成的静态网站；
+
 [hexo-theme-clean-blog](https://github.com/klugjo/hexo-theme-clean-blog)
+
 [国内版](https://github.com/Huxpro/huxpro.github.io)
 
 你可以在`hexo`分支看到本网站的源码
 ## TODO
-- 代码高亮
-- footer
+- [x] 代码高亮
+- [x] footer
 ~~赞赏~~
 - [x] 标签云
 - [x] 文章置顶
