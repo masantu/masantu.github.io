@@ -16,3 +16,4 @@
 - [ ] 本地搜索
     [参考](https://moxfive.xyz/2016/05/31/hexo-local-search/)
 - [ ] 使用`Flask`实现现代化文章发表
+    找到一个可以项目，有时间研究一下：[hexo-admin](https://github.com/jaredly/hexo-admin)

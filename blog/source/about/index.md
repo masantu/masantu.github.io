@@ -28,6 +28,14 @@ author: 西风不瘦
 2. 西风不瘦，很多人以为我引用的是小令《天净沙·秋思》中的“古道西风瘦马”，其实不是的。纳兰容若有词句这么写道：“休为西风瘦，痛饮频搔首。自古青蝇白璧，天已早，安排就。”
 3. 张牧志，化用姜文导演的电影作品——《让子弹飞》中的人物`牧之`而来。具体前文已经说过，不再赘述。
 
+### 关于文学
+简单罗列一些个人喜欢的作家：
+
+```
+鲁迅、史铁生、毕飞宇、韩少功、迟子建 等
+```
+
+欢迎大家推荐风格和上面写作风格类似的作家给我呦~
 ### 关于我
 
 民谣爱好者，电影爱好者，~~曾经的~~阅读爱好者（现在因为时间和心境关系一年到头也读不了几本书啦！🐶）。
@@ -78,6 +86,4 @@ author: 西风不瘦
 <div class="big-head">
   <i class="fa fa-copyright"></i>   版权声明 <sub>（特殊声明除外）</sub>
 </div>
-    <center>
-        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本博客作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
-    </center>
+本博客（指子域名`blog.masantu.com`）下的所有文章仅供用户免费浏览、阅读，不支持无版权转载。如确有转载需求，请通过上方邮箱联系本人，征得本人同意后方可转载。
