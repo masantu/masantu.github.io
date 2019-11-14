@@ -13,14 +13,14 @@ tags:
 - [GTmetrix-前端优化加速](https://gtmetrix.com)
 - [流程图在线绘制](https://www.draw.io/)
 - [waifu2x | 使用卷积神经网络对动漫风格的图片进行放大操作（支持照片）](http://waifu2x.udp.jp/index.zh-CN.html)
-- [Bigipg | AI人工智能图片放大](https://bigjpg.com/)
+- [Bigipg | AI 人工智能图片放大](https://bigjpg.com/)
 
 ## 图片类
 - [bing 壁纸](https://bing.ioliu.cn/)
 - [Pexels](https://www.pexels.com/)
 
 ## 综合类
-- [wikiHow中国-一个能让所有人学做任何事的平台](https://zh.wikihow.com/)  
+- [wikiHow 中国-一个能让所有人学做任何事的平台](https://zh.wikihow.com/)  
 
 ## 搜索类
 
