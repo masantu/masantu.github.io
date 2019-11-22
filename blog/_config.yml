@@ -116,3 +116,6 @@ encrypt:
   enable: true
   default_abstract: Here's something encrypted, password is required to continue reading.
   default_message: Hey, password is required here.
+
+admin:
+  deployCommand: 'hexo-deploy.bat'

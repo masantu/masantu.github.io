@@ -1,15 +1,13 @@
----
-title: 2017 年过去了，我很怀念它  
-date: 2017-12-28 12:26:38   
-cover: /images/CommonLoon_ZH-CN5437917206_1920x1080.jpg     
+title: 2017 年过去了，我很怀念它
+cover: /images/CommonLoon_ZH-CN5437917206_1920x1080.jpg
 tags:
-- 原创
-- 记录
-- Diary
+  - 原创
+  - 记录
+  - Diary
 author: 西风不瘦
-
 categories:
-- 年度总结
+  - 年度总结
+date: 2017-12-28 12:26:00
 ---
 
 马上毕业三年，从前途迷茫,自我否定到逐渐看到一点努力的方向，给自己做一个简单的记录还是必要的。
