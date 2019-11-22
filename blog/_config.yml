@@ -109,3 +109,10 @@ markdown:
   breaks: false
   smartLists: true
   smartypants: true
+
+# encrypt plugin
+# https://github.com/MikeCoder/hexo-blog-encrypt
+encrypt:
+  enable: true
+  default_abstract: Here's something encrypted, password is required to continue reading.
+  default_message: Hey, password is required here.
