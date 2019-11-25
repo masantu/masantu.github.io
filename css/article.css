@@ -1,7 +1,8 @@
 article .container .row img {
   max-width: 100% !important;
   height: auto;
-  display: inline-block;
+  margin: auto;
+  display: block;
 }
 article .container .row .video-container {
   position: relative;
