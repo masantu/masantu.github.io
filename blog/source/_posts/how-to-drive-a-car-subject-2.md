@@ -1,12 +1,12 @@
----
 title: 科目二考试记录
-date: 2019-07-23 16:16:29
 cover: /images/automobile-black-and-white-car-248539.jpg
 tags:
-- 学车
-- 驾驶
-- 技能
-- 记录
+  - 记录
+  - 学车
+  - 驾驶
+  - 技能
+categories: []
+date: 2019-07-23 16:16:00
 ---
 ## 科目二考试
 
