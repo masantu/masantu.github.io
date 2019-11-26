@@ -20,7 +20,11 @@ tags:
 - [Pexels](https://www.pexels.com/)
 
 ## 综合类
-- [wikiHow 中国-一个能让所有人学做任何事的平台](https://zh.wikihow.com/)  
+- [wikiHow 中国-一个能让所有人学做任何事的平台](https://zh.wikihow.com/)
+
+## 电子阅读类
+- [中國哲學書電子化計劃](https://ctext.org/zh)  
+- [中文马克思主义文库](https://www.marxists.org/chinese/index.html)  
 
 ## 搜索类
 
