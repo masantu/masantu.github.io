@@ -85,6 +85,19 @@ date: 2017-11-18 15:24:37
 
 
 <div class="big-head">
+  <i class="fa fa-heart"></i>   赞赏 
+</div>
+
+1. 本人没有经常性喝咖啡的习惯，偶尔的速溶咖啡费用亦可自费承担；
+2. 本[网站](https://www.masantu.com)暂时托管于 [GitHub Pages](https://pages.github.com/)，并不会产生额外的维护费用；
+3. 如本网站有内容帮助到你，你觉得需要花点钱表示感谢（~~宣泄一下~~），请使用微信（WeChat）扫描下方二维码与我一起做公益吧！
+***注意***：本支付款项会直接进入相应的基金账户，**并不**经过本人账户，所以无法申请退款，请思考后量力而行。
+
+💕 人人为我，我为人人。感谢您为中国公益事业的慷慨解囊！
+
+![腾讯公益](/img/PublicWelfare-for-Children.jpg)
+
+<div class="big-head">
   <i class="fa fa-copyright"></i>   版权声明 <sub>（特殊声明除外）</sub>
 </div>
 本博客（指子域名`blog.masantu.com`）下的所有文章仅供用户免费浏览、阅读，不支持无版权转载。如确有转载需求，请通过上方邮箱联系本人，征得本人同意后方可转载。
