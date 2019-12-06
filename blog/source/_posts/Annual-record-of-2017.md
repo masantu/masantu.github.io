@@ -36,9 +36,9 @@ date: 2017-12-28 12:26:00
 繁华世界，不敢爱慕，不敢憧憬，不知不觉在开心时也小心翼翼。意犹未尽，见好就收。
 
 絮絮叨叨写了这么些，发现也没啥重点可以突出一下，看来遣词造句能力退化不少。行吧，我满斟烈酒：一杯敬明天，一杯敬过往，给所有[像我这样的人](http://www.juzimi.com/ju/3766577)。
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=569213220&auto=1&height=32"></iframe>
-
+<meting-js
+	auto="https://music.163.com/#/song?id=569213220">
+</meting-js>
 >像我这样优秀的人   
 本该灿烂过一生   
 怎么二十多年到头来   

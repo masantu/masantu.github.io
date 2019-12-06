@@ -67,9 +67,9 @@ update: 2019-01-22
 心有大愿，不计风雨，风雨之中，愿你安好，阳光之下，愿你灿烂。
 
 胸有鸿鹄志，奈何燕雀身。今天很难,明天更难。真是“长恨此身非我有”，不知“何时忘却营营”。正所谓`万物之中,希望至美`。加油吧！  
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=353993&auto=1&height=32"></iframe>
-
+<meting-js
+	auto="https://music.163.com/#/song?id=353993">
+</meting-js>
 >鸿鹄之志千万里，你勃然而起。
 嘿我能，嘿我能，老子可以！
 你引颈向天歌一曲。
