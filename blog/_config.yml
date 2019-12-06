@@ -119,3 +119,6 @@ encrypt:
 
 admin:
   deployCommand: 'hexo-deploy.bat'
+# https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md
+aplayer:
+  meting: true
