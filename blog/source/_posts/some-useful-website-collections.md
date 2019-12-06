@@ -36,6 +36,7 @@ tags:
 - [秘迹搜索](https://mijisou.com/)  
     一个基于开源项目 `Searx` 进行二次开发的可以保护个人隐私的网络搜索服务。
 - [Seeres Search](https://seeres.com)   
+- [searx | 一个尊重隐私、可再开发的元搜索引擎](https://search.snopyta.org/)   
 ### 自定义设置搜索引擎
 ```plain
 多吉搜索字符串：https://dogedoge.com/results?q=%s
