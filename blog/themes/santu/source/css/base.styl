@@ -15,7 +15,11 @@ p.copyright
 
 p, li
   a
-    text-decoration underline
+    text-decoration none
+    border-bottom 1px dotted #004B6B
+    &:hover
+      text-decoration none
+      border-bottom 1px solid #409EFF
 
 h1, h2, h3, h4, h5, h6
   @extend .sans-serif
