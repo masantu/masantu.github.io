@@ -10,9 +10,7 @@
   background-size: cover;
   -o-background-size: cover;
 }
-.serif,
-body,
-.intro-header .post-heading .meta {
+.serif {
   font-family: 'Lora', 'Times New Roman', serif;
 }
 .sans-serif,
@@ -31,6 +29,11 @@ h6,
 .pager li > span {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+.microsoft-like,
+body,
+.intro-header .post-heading .meta {
+  font-family: 'Segoe UI', 'Microsoft YaHei', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 body {
   font-size: 20px;
   color: #404040;
@@ -47,14 +50,12 @@ li a {
   text-decoration: underline;
 }
 .container a {
+  color: #004b6b;
   text-decoration: none;
-  background-position: bottom;
-  background-size: 100% 6px;
-  background-repeat: repeat-x;
-  background-image: linear-gradient(transparent, transparent 5px, #22272a 5px, #22272a);
+  border-bottom: dotted 1px #ababab;
 }
 .container a:hover {
-  background-image: linear-gradient(transparent, transparent 5px, #409eff 5px, #409eff);
+  border-bottom: solid 1px #409eff;
 }
 .tag-cloud-tags a {
   background-image: none;
