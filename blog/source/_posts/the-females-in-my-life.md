@@ -1,4 +1,5 @@
 title: 那些生命中的女 X
+cover: /images/cluster-of-daisies-699964.jpg
 tags:
   - 原创
   - 情感
