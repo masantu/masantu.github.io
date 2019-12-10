@@ -554,8 +554,9 @@ figcaption {
 .color-span {
   background-color: #f56c6c !important;
 }
-article {
-  overflow: auto;
+.row {
+  margin-right: 0;
+  margin-left: -15px;
 }
 article .container .row img {
   max-width: 100% !important;
