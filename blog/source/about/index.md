@@ -4,7 +4,7 @@ author: 西风不瘦
 date: 2017-11-18 15:24:37
 ---
 ![病木重生](/images/A-withered-tree-comes-to-life-again.jpg)
-<figcaption > 2018 年摄于北京·香山</figcaption >
+<figcaption > 病木重生 · 2018 年摄于北京·香山</figcaption >
 
 <div class="big-head">
   <i class="fa fa-user"></i>    自述
