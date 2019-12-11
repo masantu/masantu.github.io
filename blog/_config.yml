@@ -122,3 +122,11 @@ admin:
 # https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md
 aplayer:
   meting: true
+
+nofollow:
+  enable: true
+  field: site
+  exclude:
+    - 'www.masantu.com'
+    - 'blog.masantu.com'
+    - 'masantu.com'
