@@ -1,1 +1,1 @@
-hexo g -d
+hexo g -deploy

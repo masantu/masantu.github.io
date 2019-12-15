@@ -1,6 +1,20 @@
 # masantu
 用于存放Hexo源目录
 ## 更新日志
+- 2019-12-16
+    1. 添加[hexo-douban](https://github.com/mythsman/hexo-douban)实现豆瓣页面爬取功能；
+        ```shell
+        $ hexo douban -h
+        Usage: hexo douban
+        
+        Description:
+        Generate pages from douban
+        
+        Options:
+          -b, --books   Generate douban books only
+          -g, --games   Generate douban games only
+          -m, --movies  Generate douban movies only
+        ```
 - 2019-12-06
     1. 添加[hexo-tag-aplayer](https://github.com/MoePlayer/hexo-tag-aplayer)实现文章页音乐播放功能；
         ```html
