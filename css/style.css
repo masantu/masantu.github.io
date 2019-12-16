@@ -84,6 +84,7 @@ h4,
 h5,
 h6 {
   font-weight: 800;
+  line-height: 1.2;
 }
 a {
   color: #404040;
@@ -557,6 +558,9 @@ figcaption {
 .row {
   margin-right: 0;
   margin-left: -15px;
+}
+code {
+  color: #eb4537;
 }
 article .container .row img {
   max-width: 100% !important;
