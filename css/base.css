@@ -558,3 +558,6 @@ figcaption {
   margin-right: 0;
   margin-left: -15px;
 }
+code {
+  color: #eb4537;
+}
