@@ -226,6 +226,24 @@
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             
                 <div class="post-preview">
+    <a href="/post/2017-12-28/Annual-record-of-2017/">
+        <h2 class="post-title">
+            2017 年过去了，我很怀念它
+        </h2>
+        
+    </a>
+    <p class="post-meta">
+        
+        <!-- Date and Author -->
+        
+            Posted by 西风不瘦 on
+        
+        2017-12-28
+    </p>
+</div>
+<hr>
+            
+                <div class="post-preview">
     <a href="/post/2017-06-04/bai-lu-yuan-of-tian-xiao-e/">
         <h2 class="post-title">
             书评 | 《白鹿原》人物浅析——小女人田小娥
@@ -386,6 +404,35 @@
 <script src="//cdn.bootcss.com/featherlight/1.3.5/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
 
 <!-- Disqus Comments -->
+
+
+<!-- Valine Comments -->
+
+<script src="//unpkg.com/valine@latest/dist/Valine.min.js"></script>
+<script type="text/javascript">
+    var notify = 'false' == true ? true : false;
+    var verify = 'false' == true ? true : false;
+    var GUEST_INFO = ['nick','mail','link'];
+    var guest_info = 'nick,mail,link'.split(',').filter(function(item){
+      return GUEST_INFO.indexOf(item) > -1
+    });
+    guest_info = guest_info.length == 0 ? GUEST_INFO :guest_info;
+    new Valine({
+        el: '.vcomment',
+        notify: notify,
+        verify: verify,
+        appId: "jjycPyl8ahtrP7nTFane9Nbx-MdYXbMMI",
+        appKey: "xENmWhVnYTxpn9y2DE6fVarm",
+        avatar:"monsterid",
+        placeholder: "You can write comments here,maybe i will reply sometimes.",
+        guest_info:guest_info,
+        pageSize:"10",
+        highlight:"false",
+        recordIP:"true",
+        visitor:"true",
+        lang:"en",
+    })
+</script>
 
 <!-- Go to Top -->
 
