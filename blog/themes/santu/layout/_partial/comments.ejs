@@ -6,6 +6,14 @@
     </div>
 <% } %>
 
+<% if(page.comments && theme.comments && theme.plugins.valine.enabled){ %>
+    <hr />
+    <h3><%- __('comment')%>:</h3>
+    <% if(theme.plugins.valine.enabled){ %>
+        <div class="vcomment"></div>
+        <% } %>
+<% } %>
+
 <% if(page.comments && theme.comments && theme.comments.facebook && theme.comments.facebook.appid) { %>
     <hr />
     <h3><%- __('comment')%>:</h3>

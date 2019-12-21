@@ -148,3 +148,22 @@ douban:
 #    title: 'This is my game title'
 #    quote: 'This is my game quote'
   timeout: 86400000
+comments: true
+plugins:
+#      -----------------Valine-----------------
+#   Valine comment system. https://valine.js.org
+  valine:
+    enabled: true # if you want use valine, please set this value to true
+    appId:  jjycPyl8ahtrP7nTFane9Nbx-MdYXbMMI # your leancloud appId
+    appKey:  xENmWhVnYTxpn9y2DE6fVarm # your leancloud appKey
+    notify: false # Mail notify
+    verify: false # Verify code
+    avatar: monsterid # Gravatar style : mm/identicon/monsterid/wavatar/retro/hide
+    placeholder: Enjoy yourself!😘 # Comment Box placeholder
+    guest_info: nick,mail,link # Comment header info
+    pageSize: 10 # comment list page size
+    highlight: false
+    recordIP: true
+    visitor: true
+    lang: en
+
