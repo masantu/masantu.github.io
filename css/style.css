@@ -572,6 +572,10 @@ blockquote p:first-child,
 blockquote ul:first-child {
   margin-top: 0 !important;
 }
+.read-bf-com {
+  font-size: 13px;
+  margin-bottom: 5px;
+}
 article .container .row img {
   max-width: 100% !important;
   height: auto;

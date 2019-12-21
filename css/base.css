@@ -572,3 +572,7 @@ blockquote p:first-child,
 blockquote ul:first-child {
   margin-top: 0 !important;
 }
+.read-bf-com {
+  font-size: 13px;
+  margin-bottom: 5px;
+}
