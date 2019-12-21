@@ -1,6 +1,14 @@
 # masantu
 用于存放Hexo源目录
 ## 更新日志
+- 2019-12-21
+    1. 添加[hexo-hide-posts](https://github.com/printempw/hexo-hide-posts/)隐藏指定文章；
+    ```shell
+    hidden: true
+    ```
+    2. 添加[Valine](https://github.com/xCss/Valine)使能评论功能；
+    
+        TODO: 点击链接位置样式有点丑
 - 2019-12-16
     1. 添加[hexo-douban](https://github.com/mythsman/hexo-douban)实现豆瓣页面爬取功能；
         ```shell

@@ -1,7 +1,8 @@
 ---
-title: 📢 评论须知
+title: 📢 首次评论须知
 date: 2019-12-20 08:09:19
 cover: /images/white-smartphone-1851415.jpg
+hidden: true
 tags:
 - 留言
 ---
