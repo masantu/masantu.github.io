@@ -67,5 +67,7 @@ pin: PinTop
 prev: Older Posts
 next: Newer Posts
 comment: Comments
+response: Response
 archive_a: Archives
 archive_b: "Archives: %s"
+comment_tips: Read before first comment.

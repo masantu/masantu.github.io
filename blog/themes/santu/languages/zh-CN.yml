@@ -51,5 +51,7 @@ pin: 置顶
 prev: 上一页
 next: 下一页
 comment: 留言
+response: 回应
+comment_tips: 评论前必读
 archive_a: 归档
 archive_b: 归档：%s
