@@ -226,21 +226,6 @@
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             
                 <div class="post-preview">
-    <a href="/post/2019-12-29/new-to-test/">
-        <h1 class="post-title archive">
-            这是一个测试文档
-        </h1>
-    </a>
-    <p class="post-meta archive">
-        <!-- Date and Author -->
-        
-            Posted by 西风不瘦 on
-        
-        2019-12-29
-    </p>
-</div>
-            
-                <div class="post-preview">
     <a href="/post/2019-12-29/Annual-record-of-2019/">
         <h1 class="post-title archive">
             总有一次离别让我们泪流满面
@@ -486,6 +471,7 @@
       return GUEST_INFO.indexOf(item) > -1
     });
     guest_info = guest_info.length == 0 ? GUEST_INFO :guest_info;
+    var ctip =
     new Valine({
         el: '.vcomment',
         notify: notify,
@@ -493,7 +479,8 @@
         appId: "jjycPyl8ahtrP7nTFane9Nbx-MdYXbMMI",
         appKey: "xENmWhVnYTxpn9y2DE6fVarm",
         avatar:"monsterid",
-        placeholder: "You can write comments here,maybe i will reply sometimes.",
+        <!--placeholder: "Enjoy yourself!😘",-->
+        placeholder: "Enjoy yourself!😘",
         guest_info:guest_info,
         pageSize:"10",
         highlight:"false",

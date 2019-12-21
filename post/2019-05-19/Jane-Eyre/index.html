@@ -459,6 +459,7 @@
       return GUEST_INFO.indexOf(item) > -1
     });
     guest_info = guest_info.length == 0 ? GUEST_INFO :guest_info;
+    var ctip =
     new Valine({
         el: '.vcomment',
         notify: notify,
@@ -466,7 +467,8 @@
         appId: "jjycPyl8ahtrP7nTFane9Nbx-MdYXbMMI",
         appKey: "xENmWhVnYTxpn9y2DE6fVarm",
         avatar:"monsterid",
-        placeholder: "You can write comments here,maybe i will reply sometimes.",
+        <!--placeholder: "Enjoy yourself!😘",-->
+        placeholder: "Enjoy yourself!😘",
         guest_info:guest_info,
         pageSize:"10",
         highlight:"false",
