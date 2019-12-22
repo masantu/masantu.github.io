@@ -29,6 +29,9 @@ tags:
 - [中國哲學書電子化計劃](https://ctext.org/zh)  
 - [中文马克思主义文库](https://www.marxists.org/chinese/index.html)  
 
+## 工具类
+- [云短信|免费在线接收手机短信验证码](https://yunduanxin.net/)
+
 ## 搜索类
 
 - [多吉搜索](https://dogedoge.com)  

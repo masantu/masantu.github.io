@@ -4,6 +4,8 @@ date: 2019-10-01 09:57:46
 cover: /images/amazing-beautiful-breathtaking-clouds.jpg
 tags:
 - 梦境
+categories:
+  - 痴人“说梦”
 
 ---
 昨夜偶得一梦，回头想想还挺有趣，写在这里权当一次记录。
