@@ -3,9 +3,9 @@
 ## 更新日志
 - 2019-12-21
     1. 添加[hexo-hide-posts](https://github.com/printempw/hexo-hide-posts/)隐藏指定文章；
-    ```shell
-    hidden: true
-    ```
+        ```shell
+        hidden: true
+        ```
     2. 添加[Valine](https://github.com/xCss/Valine)使能评论功能；
     
         TODO: 点击链接位置样式有点丑
