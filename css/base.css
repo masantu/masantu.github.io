@@ -527,9 +527,8 @@ figcaption {
 .down-icon {
   margin-top: 0.2em;
 }
-.gotop {
+.float-btn {
   position: fixed;
-  bottom: 50px;
   right: 10px;
   text-align: center;
   background-color: #fff;
@@ -541,16 +540,23 @@ figcaption {
   box-shadow: 0 0 6px rgba(0,0,0,0.12);
   z-index: 5;
 }
-.gotop a {
+.float-btn i {
   display: block;
-  padding: 4px 8px;
-  color: #fff;
-  background-color: #258fb8;
-  cursor: pointer;
-  border-radius: 5px;
+  border-radius: 20px;
+  line-height: 40px;
+  text-align: center;
+  font-size: 20px;
 }
-.gotop a:hover {
+.float-btn i:hover {
   opacity: 0.8;
+  color: #fff;
+  background-color: #35aa53;
+}
+.gotop {
+  bottom: 50px;
+}
+.feed-back {
+  bottom: 90px;
 }
 .color-span {
   background-color: #f56c6c !important;
