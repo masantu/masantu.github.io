@@ -10,7 +10,7 @@ password: nibiecai
 
 3efa75fb3b32d3211cf7063f7f56b3b7815838eb
 
-![示例图片](https://cdn.jsdelivr.net/gh/masantu/images/img/A-withered-tree-comes-to-life-again.jpg)
+![示例图片]( https://cdn.jsdelivr.net/gh/masantu/statics/image/A-withered-tree-comes-to-life-again.jpg)
 
 ## Google 原色
 
@@ -43,5 +43,5 @@ password: nibiecai
 
 最后附上一张两组颜色对比图：
 
-![google-color](https://cdn.jsdelivr.net/gh/masantu/images/img/google-color.jpg)
+![google-color]( https://cdn.jsdelivr.net/gh/masantu/statics/image/google-color.jpg)
 
