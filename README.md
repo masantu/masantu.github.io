@@ -1,6 +1,9 @@
 # masantu
 用于存放Hexo源目录
 ## 更新日志
+- 2019-12-28
+    1. 添加个人图床功能[本地仓库](https://github.com/masantu/images)
+    
 - 2019-12-21
     1. 添加[hexo-hide-posts](https://github.com/printempw/hexo-hide-posts/)隐藏指定文章；
         ```shell

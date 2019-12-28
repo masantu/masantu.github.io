@@ -3,7 +3,7 @@ cover: /img/about.jpg
 author: 西风不瘦
 date: 2017-11-18 15:24:37
 ---
-![病木重生](/images/A-withered-tree-comes-to-life-again.jpg)
+![病木重生](https://cdn.jsdelivr.net/gh/masantu/images/img/A-withered-tree-comes-to-life-again.jpg)
 <figcaption > 病木重生 · 2018 年摄于北京·香山</figcaption >
 
 <div class="big-head">
