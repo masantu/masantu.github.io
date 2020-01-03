@@ -9,6 +9,9 @@ tags:
 - 推荐
 top: 1
 ---
+
+主要对一些网站做一个收集和记录。
+
 ## 工具类
 - [BgRemover - 在线图片去底工具 - 将纯色背景的图片转换为背景透明的图片](http://www.aigei.com/bgremover/)
 - [自动生成 favicon](https://www.favicon-generator.org/)
