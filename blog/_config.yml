@@ -84,8 +84,8 @@ theme: santu
 deploy:
   type: git
   repo: https://github.com/masantu/masantu.github.io.git
-
   branch: master
+
 # Local Search
 search:
   path: search.xml
@@ -119,9 +119,11 @@ encrypt:
 
 admin:
   deployCommand: 'hexo-deploy.bat'
+
 # https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md
 aplayer:
   meting: true
+
 # 链接添加 nofollow
 nofollow:
   enable: true
