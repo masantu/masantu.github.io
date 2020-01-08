@@ -1,4 +1,6 @@
 # masantu
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/529245df-b440-43ae-b356-f2ac0fcb2b28/deploy-status)](https://app.netlify.com/sites/mst/deploys)
 用于存放Hexo源目录
 ## 更新日志
 - 2019-12-28

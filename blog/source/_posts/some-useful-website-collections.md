@@ -19,7 +19,8 @@ top: 1
 - [流程图在线绘制](https://www.draw.io/)
 - [waifu2x | 使用卷积神经网络对动漫风格的图片进行放大操作（支持照片）](http://waifu2x.udp.jp/index.zh-CN.html)
 - [Bigipg | AI 人工智能图片放大](https://bigjpg.com/)
-- [iLoveIMG | 给图片加水印](https://www.iloveimg.com/zh-cn/watermark-image)
+- [iLoveIMG | 图片处理](https://www.iloveimg.com/zh-cn/watermark-image)
+- [Tinypng | 图片无损压缩](https://tinypng.com/)
 
 ## 图片类
 - [bing 壁纸](https://bing.ioliu.cn/)
