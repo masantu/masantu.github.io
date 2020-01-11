@@ -1,6 +1,7 @@
 title: 深深别院，潜潜牧志
 cover:  https://cdn.jsdelivr.net/gh/masantu/statics/image/about-bg.jpg
 author: 西风不瘦
+layout: about
 date: 2017-11-18 15:24:37
 ---
 ![病木重生](https://cdn.jsdelivr.net/gh/masantu/statics/image/A-withered-tree-comes-to-life-again.jpg)

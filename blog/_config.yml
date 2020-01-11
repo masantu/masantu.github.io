@@ -76,8 +76,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #主题更改
-#theme: next
 theme: santu
+#theme: clover
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
