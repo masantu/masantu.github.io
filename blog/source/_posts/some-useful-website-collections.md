@@ -23,6 +23,7 @@ top: 1
 - [Tinypng | 图片无损压缩](https://tinypng.com/)
 
 ## 图片类
+- [图片交给它 | 各种图片处理工具](https://guozh.net/picture-tools/)
 - [bing 壁纸](https://bing.ioliu.cn/)
 - [Pexels](https://www.pexels.com/)
 - [Unsplash](https://unsplash.com/)
