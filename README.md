@@ -3,6 +3,11 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/529245df-b440-43ae-b356-f2ac0fcb2b28/deploy-status)](https://app.netlify.com/sites/mst/deploys)
 用于存放Hexo源目录
 ## 更新日志
+- 2020-01-16
+    更改主题，使用 [hexo-theme-clover](https://github.com/esappear/hexo-theme-clover)
+    参考了：
+     - https://github.com/anscor/hexo-theme-clover
+---
 - 2019-12-28
     1. 添加个人图床功能[本地仓库](https://github.com/masantu/statics);
     2. 利用[hexo-light-gallery](https://github:com/lzane/hexo-light-gallery)实现点击查看大图功能;
