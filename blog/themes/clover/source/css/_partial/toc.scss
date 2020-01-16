@@ -1,0 +1,39 @@
+#main {
+    #toc-aside {
+        float: right;
+
+        #toc-nav {
+            padding-left: 10px;
+            max-width: 13%;
+
+            .post-toc {
+                display: inline-block;
+
+                .post-toc-shrink {
+                    display: none;
+                }
+
+                .post-toc-expand {
+                    display: list-item;
+                }
+
+                .active>a {
+                    padding-left: 10px;
+                    margin-left: -10px;
+                    padding-top: 6px;
+                    padding-bottom: 6px;
+                    color: #b6b6b6;
+                    display: block;
+                }
+
+                li {
+                    margin: 4px 0;
+                    padding-top: 6px;
+                    padding-left: 15px;
+                    padding-bottom: 6px;
+                    color: #333;
+                }
+            }
+        }
+    }
+}
