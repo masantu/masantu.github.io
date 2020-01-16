@@ -1,11 +1,20 @@
+<%
+    var subtitle = '';
+    if (item.subtitle && item.subtitle.length){
+        subtitle = item.subtitle;
+    }else if(item.excerpt && item.excerpt.length){
+        subtitle = item.excerpt;
+    }
+%>
+
 <div class="post-preview">
     <a href="<%- config.root %><%- item.path %>">
         <h2 class="post-title">
             <%- item.title || theme.default_post_title || "Untitled" %>
         </h2>
-        <% if (item.subtitle && item.subtitle.length) { %>
+        <% if (subtitle) { %>
             <h3 class="post-subtitle">
-                <%- item.subtitle %>
+                <%- subtitle %>
             </h3>
         <% } %>
     </a>

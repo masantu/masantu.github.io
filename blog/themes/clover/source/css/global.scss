@@ -9,3 +9,30 @@ a {
 body {
   font-family: -apple-system, system-ui, "Helvetica Neue", "PingFang SC", "Microsoft YaHei", "Source Han Sans SC", "Noto Sans CJK SC", "WenQuanYi Micro Hei", sans-serif;
 }
+
+//---
+figcaption{
+  text-align:center;
+  margin-top:.66667em;
+  margin-bottom:.66667em;
+  padding:0 1em;
+  font-size:.7em;
+  line-height: 1.5;
+  color: #999
+}
+
+blockquote ol:last-child, blockquote p:last-child, blockquote ul:last-child{
+  margin-bottom: 0 !important;
+}
+
+blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child{
+
+  margin-top: 0 !important
+}
+
+.big-head {
+    font-size: 1.5em;
+    color: #e11111;
+    display: block;
+    margin: 1em 0 1em;
+}

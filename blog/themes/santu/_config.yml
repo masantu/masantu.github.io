@@ -10,6 +10,12 @@ menu:
 # Title on top left of menu. Leave empty to use main blog title
 menu_title: SanTu
 
+card_style:
+  home: project-card
+  archive: article-card
+  tag: article-card
+  category: article-card
+
 # URL of the Home page image
 #index_cover: /img/home-bg.jpeg
 #index_cover: https://bing.ioliu.cn/v1/rand
