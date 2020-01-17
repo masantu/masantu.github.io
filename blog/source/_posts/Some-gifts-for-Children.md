@@ -17,3 +17,6 @@ hide: true
 
 - 《小王子》 
 [小王子 (豆瓣)](https://book.douban.com/subject/1084336/)
+
+> Yesterday is history,tomorrow is a mystery,but today is a gift,That is why it’s called the present.    
+（昨日之日不可追，明日之日太神秘。人生得意须尽欢，且将新火试新茶。诗酒趁年华。）
