@@ -41,7 +41,7 @@ date: 2019-12-29 23:26:19
 * [x] [《小王子》| 时代文艺出版社](https://book.douban.com/subject/4894876/)
 * [《亲密关系》| 人民邮电出版社](https://book.douban.com/subject/5952488/)[已读 80%]
 如果你对 Python 的 Web 开发感兴趣或者希望得到实践，可阅读该书：
-* [《Flask Web开发实战》| 机械工业出版社](https://book.douban.com/subject/30310340/)[实战过程中翻阅]
+* [《Flask Web 开发实战》| 机械工业出版社](https://book.douban.com/subject/30310340/)[实战过程中翻阅]
 
 当然，在读的书籍无法悉数展示，如果读者感兴趣的话可以去我的[*豆瓣读书*](https://book.douban.com/people/imoyao/)页面查看。
 
