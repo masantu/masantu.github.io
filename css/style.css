@@ -582,6 +582,9 @@ blockquote ul:first-child {
   font-size: 13px;
   margin-bottom: 5px;
 }
+article .container .row .article-content {
+  margin-top: 20px;
+}
 article .container .row img {
   max-width: 100% !important;
   height: auto;
