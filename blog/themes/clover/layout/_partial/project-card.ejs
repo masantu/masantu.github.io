@@ -1,7 +1,11 @@
+<%
+    var cover = post.cover || post.photos[0] || theme.post_default_cover;
+%>
+
 <div class="project-card">
-  <% if (post.photos[0]) { %>
+  <% if (cover) { %>
     <div class="imgWrap">
-      <img src="<%= post.photos[0] %>" alt="" />
+      <img src="<%= cover %>" alt="" />
     </div>
   <% } %>
   <div class="ctnWrap">

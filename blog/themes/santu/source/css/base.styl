@@ -5,6 +5,7 @@ body
   @extend .microsoft-like
   font-size 20px
   color gray-dark
+  //background-color: #eff0f6;
 
 p
   line-height 1.5
@@ -222,6 +223,12 @@ hr.small
         font-size 30px
 
 .post-preview
+  //justify-content: space-between;
+  //align-items: center;
+  //padding: 80px 100px;
+  //margin: 40px 0;
+  //background-color: white;
+  //color: #333;
   > a
     color gray-dark
 
@@ -241,6 +248,10 @@ hr.small
       margin 0
       font-weight 300
       margin-bottom 10px
+  //@media screen and (max-width: 600px)
+  //  flex-direction: column;
+  //  padding: 20px;
+  //  margin: 10px 0;
 
   > .post-meta
     color gray
@@ -293,6 +304,9 @@ hr.small
 
 .post-categories
   float right
+  position: absolute;
+  right: 0;
+  top: -40;
 
 .archive-before-pagination
   height 30px

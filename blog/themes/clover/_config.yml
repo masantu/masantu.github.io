@@ -3,7 +3,7 @@ nav:
   title: "Rarpainting"
   subTitle: "Focus on Python"
 
-favicon: ""
+favicon: "/img/favicon.ico"
 
 # Custom background
 background:
@@ -12,15 +12,15 @@ background:
 
 # Social media
 social:
-  Dribbble: https://dribbble.com/clovertuan
-  Behance: https://www.behance.net/clovertuan
-  Lofter: http://clovertuan.lofter.com/
-  Instagram: https://www.instagram.com/clovertuan/
-  GitHub: https://github.com/cloverTuan
+#  Dribbble: https://dribbble.com/clovertuan
+#  Behance: https://www.behance.net/clovertuan
+#  Lofter: http://clovertuan.lofter.com/
+#  Instagram: https://www.instagram.com/clovertuan/
+  别院牧志: https://masantu.com/about/
 
 # Custom footer
-mail: d.guangying@foxmail.com
-copyright: All rights reserved @Clover Tuan
+mail: imsantu.ma@gmail.com
+copyright: All rights reserved © imoyao
 
 # Custom menu. You can specific the path or the card style (only useful for category page).
 # Two kinds of card style: 'project-card', 'article-card',
@@ -48,6 +48,7 @@ home:
   # except_tag:
   #   - 总结
   #   - css
+post_default_cover: https://img.xjh.me/random_img.php?type=bg&ctype=nature&return=302
 
 card_style:
   home: project-card

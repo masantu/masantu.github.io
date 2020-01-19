@@ -2,7 +2,7 @@
   <header class="header">
     <a href="<%= url_for('/') %>" class="title"><%= config.title %></a>
     <p class="subTitle">
-        <%= theme.nav.subTitle %>
+        <%= config.slogan || config.description || theme.nav.subTitle %>
     </p>
   </header>
   <div class="ctnWrap">
