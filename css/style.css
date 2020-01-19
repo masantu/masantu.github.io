@@ -350,6 +350,9 @@ hr.small {
 }
 .post-categories {
   float: right;
+  position: absolute;
+  right: 0;
+  top: -40;
 }
 .archive-before-pagination {
   height: 30px;
