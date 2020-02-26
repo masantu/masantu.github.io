@@ -8,9 +8,9 @@
 
 @font-face {
   font-family: 'iconfont';
-  /* project id 861369 */
-  src: url("//at.alicdn.com/t/font_861369_9voy0xmnmvl.eot");
-  src: url("//at.alicdn.com/t/font_861369_9voy0xmnmvl.eot?#iefix") format("embedded-opentype"), url("//at.alicdn.com/t/font_861369_9voy0xmnmvl.woff") format("woff"), url("//at.alicdn.com/t/font_861369_9voy0xmnmvl.ttf") format("truetype"), url("//at.alicdn.com/t/font_861369_9voy0xmnmvl.svg#iconfont") format("svg"); }
+  /* project id 1658685 */
+  src: url("//at.alicdn.com/t/font_1658685_os8gmfiv18.eot");
+  src: url("//at.alicdn.com/t/font_1658685_os8gmfiv18.eot?#iefix") format("embedded-opentype"), url("//at.alicdn.com/t/font_1658685_os8gmfiv18.woff2") format("woff2"), url("//at.alicdn.com/t/font_1658685_os8gmfiv18.woff") format("woff"), url("//at.alicdn.com/t/font_1658685_os8gmfiv18.ttf") format("truetype"), url("//at.alicdn.com/t/font_1658685_os8gmfiv18.svg#iconfont") format("svg"); }
 
 .iconfont {
   font-family: "iconfont" !important;
@@ -27,9 +27,15 @@
     content: '\e626'; }
   .iconfont.icon-dribbble::before {
     content: '\e6c3'; }
+  .iconfont.icon-zhihu::before {
+    content: '\e69a'; }
+  .iconfont.icon-homepage::before {
+    content: '\e604'; }
   .iconfont.icon-github::before {
-    content: '\e799'; }
+    content: '\e6b7'; }
+  .iconfont.icon-douban::before {
+    content: '\e6b5'; }
   .iconfont.icon-arrow-left::before {
-    content: '\e91a'; }
+    content: '\e75b'; }
   .iconfont.icon-arrow-right::before {
-    content: '\e636'; }
+    content: '\e75c'; }
