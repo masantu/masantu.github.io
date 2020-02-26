@@ -8,7 +8,22 @@ favicon: "/img/favicon.ico"
 # Custom background
 background:
   color: "#eff0f6"
-  image: ""
+  image: "/img/natural_paper.png"
+#  image: "https://www.toptal.com/designers/subtlepatterns/patterns/washi.png"
+#  image: "https://www.toptal.com/designers/subtlepatterns/patterns/confectionary.png"
+
+# Default post title
+default_post_title: 无题
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname:
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
 
 # Social media
 social:
@@ -16,11 +31,14 @@ social:
 #  Behance: https://www.behance.net/clovertuan
 #  Lofter: http://clovertuan.lofter.com/
 #  Instagram: https://www.instagram.com/clovertuan/
-  别院牧志: https://masantu.com/about/
+  HomePage: https://masantu.com/about/
+  Zhihu: https://www.zhihu.com/people/imoyao
+  Douban: https://www.douban.com/people/imoyao/
+  Github: https://www.github.com/imoyao/
 
 # Custom footer
 mail: imsantu.ma@gmail.com
-copyright: All rights reserved © imoyao
+copyright: All rights reserved © 别院牧志
 
 # Custom menu. You can specific the path or the card style (only useful for category page).
 # Two kinds of card style: 'project-card', 'article-card',

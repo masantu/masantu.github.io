@@ -1,8 +1,7 @@
 <%- partial('_partial/head') %>
 <body style="
 <% if (theme.background.image) { %>
-  background: url(<%= theme.background.image %>) center center no-repeat;
-  background-size: contain;
+  background: url(<%= theme.background.image %>);
 <% } %>
 <% if (theme.background.color) { %>
   background-color: <%= theme.background.color %>
@@ -11,6 +10,10 @@
   <div id="container">
     <%- partial('_partial/nav') %>
     <div id="main"><%- body %></div>
+
+    <!-- After footer scripts -->
+    <%- partial('_partial/after-footer') %>
+
     <%- partial('_partial/footer') %>
   </div>
 </body>

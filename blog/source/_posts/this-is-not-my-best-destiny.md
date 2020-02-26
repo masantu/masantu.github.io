@@ -14,12 +14,11 @@ date: 2019-10-16 20:54:17
 ## 前言
 
 虽然写下这个命题有点装 X 和精通体位的太监的嫌疑，但是就像 Sarah Millican 在纪录片《超人》里面说的那样：
-> People were laughing at me anyway, so I thought"Fuck it,Imight as well start charging them."（人们总是嘲笑我，所以我想：“去他妈的，干脆收他们点钱！”
-）；
+> People were laughing at me anyway, so I thought"Fuck it,Imight as well start charging them."（人们总是嘲笑我，所以我想：“去他妈的，干脆收他们点钱！”）
 
 与其把介绍费给夸夸其谈的乡村说媒人，去他妈的，还不如我自个儿把择偶标准一五一十地和盘托出更加靠谱。运气不好，就当逗大伙儿一乐；运气好的话，也可以来个按图索骏。鞠躬~
 ## TL;DR
-女的，活的，能忍受我的瑜不揜瑕也能发掘我的美不外见。
+一个善良的女性，能忍受我的瑜不揜瑕也能发掘我的美不外见。
 ## The one
 ### 外形
 - 希望你可以坦然接受自己的容貌并会化一点落落大方的淡妆；

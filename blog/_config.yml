@@ -76,8 +76,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #主题更改
-theme: santu
-#theme: clover
+#theme: santu
+theme: clover
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -161,7 +161,7 @@ plugins:
     notify: false # Mail notify
     verify: false # Verify code
     avatar: monsterid # Gravatar style : mm/identicon/monsterid/wavatar/retro/hide
-    placeholder: Enjoy yourself!😘 # Comment Box placeholder
+    placeholder: Enjoy Yourself!😘 # Comment Box placeholder
     guest_info: nick,mail,link # Comment header info
     pageSize: 10 # comment list page size
     highlight: false

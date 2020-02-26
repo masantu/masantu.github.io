@@ -1,4 +1,5 @@
 $brand-color: #f0534e;
+$brand-b-color: #004b6b;
 .article {
   margin: 64px 0 80px;
   padding: 80px 100px 0;
@@ -6,27 +7,30 @@ $brand-color: #f0534e;
   color: #333;
   font-size: 16px;
   line-height: 30px;
-
   > .title {
     font-size: 28px;
     line-height: 40px;
     margin-bottom: 10px;
     font-weight: 600;
   }
-
   > .sub {
     opacity: .5;
     margin-bottom: 20px;
   }
-
   > .content {
     padding-bottom: 64px;
-
-    h1, h2, h3, h4, h5 {
-      font-size: 24px;
+    h1, h2, h3, h4, h5{
+      font-size:24px;
       font-weight: 600;
       line-height: 40px;
       margin-bottom: 15px;
+    }
+    //文章页图片居中
+    img {
+      max-width: 100% !important;
+      height: auto;
+      margin: auto;
+      display: block;
     }
 
     p {
@@ -41,33 +45,28 @@ $brand-color: #f0534e;
       color: #333;
       font-size: 13px;
       background: #f8f8f8;
-
       .gutter {
         text-align: right;
-
+        width: 8%;
         pre {
           background-color: #f0f0f0;
           padding: 0 10px;
         }
       }
-
       .code {
         padding: 0 10px;
       }
     }
-
     .highlight {
       margin-bottom: 15px;
     }
 
     ul, ol {
       margin: 15px 0;
-      margin-left: 15px;
-
+      margin-left:15px;
       > li {
         padding-left: 20px;
         position: relative;
-
         &::before {
           content: '';
           position: absolute;
@@ -81,9 +80,14 @@ $brand-color: #f0534e;
         }
       }
     }
-
     a {
-      color: $brand-color;
+      color: $brand-b-color;
+      text-decoration: none;
+      border-bottom: dotted 1px #ababab;
+      &:hover {
+        color:#409eff;
+        border-bottom: solid 1px #409eff;
+      }
     }
 
     strong {
@@ -93,19 +97,6 @@ $brand-color: #f0534e;
 
     figure > img {
       display: block;
-    }
-
-    figure.highlight {
-      background: #eee;
-      border: 1px solid #ddd;
-      margin-top: 15px;
-      padding: 7px 15px;
-      border-radius: 2px;
-      text-shadow: 0 0 1px #fff;
-      line-height: 1.6;
-      overflow: auto;
-      position: relative;
-      font-size: 0.9em;
     }
 
     figcaption {
@@ -177,20 +168,20 @@ $brand-color: #f0534e;
       border: 1px solid #ddd;
       table-layout: fixed;
       word-wrap: break-all;
-
-      > tbody > tr {
-        &:nth-of-type(odd) {
-          background-color: #f9f9f9;
-        }
-
-        &:hover {
-          background-color: #f5f5f5;
-        }
+      >tbody>tr {
+        &:nth-of-type(odd) { background-color: #f9f9f9; }
+        &:hover { background-color: #f5f5f5; }
       }
-
-      caption, th, td {
+      caption, th {
         padding: 5px;
         text-align: center;
+        vertical-align: middle;
+        font-weight: normal;
+      }
+
+      td {
+        padding: 5px;
+        text-align: left;
         vertical-align: middle;
         font-weight: normal;
       }
@@ -205,27 +196,22 @@ $brand-color: #f0534e;
         font-weight: 700;
       }
 
-      td {
-        border-bottom-width: 1px;
-      }
+      td { border-bottom-width: 1px; }
     }
 
     * {
       max-width: 100%;
     }
   }
-
   > footer {
     padding: 40px 0;
     border-top: solid 1px #eee;
-
     > .link {
       font-size: 16px;
       line-height: 22px;
       max-width: 50%;
     }
   }
-
   @media screen and (max-width: 600px) {
     padding: 20px 20px 0;
     margin: 20px 0;

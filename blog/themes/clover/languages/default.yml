@@ -6,3 +6,7 @@ page: Page %d
 category: Category
 tag: Tag
 other_category: Others
+pin: PinTop
+comment: Comments
+response: Response
+comment_tips: Read before first comment.

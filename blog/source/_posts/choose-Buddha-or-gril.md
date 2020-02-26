@@ -1,5 +1,5 @@
 title: 佛与姑娘
-cover: /images/p09310935393643.png
+cover: /images/p2449411368.jpg
 tags:
   - 美文
   - 阅读

@@ -1,0 +1,54 @@
+
+<!-- jQuery -->
+<script src="//cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
+
+<!-- Bootstrap -->
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+<!-- Gallery -->
+<script src="//cdn.bootcss.com/featherlight/1.3.5/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+
+<!-- Disqus Comments -->
+<% if (theme.comments && theme.comments.disqus_shortname){ %>
+<script type="text/javascript">
+    var disqus_shortname = '<%= theme.comments.disqus_shortname %>';
+
+    (function(){
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/<% if (page.comments){ %>embed.js<% } else { %>count.js<% } %>';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+<% } %>
+
+<!-- Valine Comments -->
+<% if (theme.plugins.valine && theme.plugins.valine.enabled){ %>
+<script src="//unpkg.com/valine@latest/dist/Valine.min.js"></script>
+<script type="text/javascript">
+    var notify = '<%= theme.plugins.valine.notify %>' == true ? true : false;
+    var verify = '<%= theme.plugins.valine.verify %>' == true ? true : false;
+    var GUEST_INFO = ['nick','mail','link'];
+    var guest_info = '<%= theme.plugins.valine.guest_info %>'.split(',').filter(function(item){
+      return GUEST_INFO.indexOf(item) > -1
+    });
+    guest_info = guest_info.length == 0 ? GUEST_INFO :guest_info;
+    var ctip =
+    new Valine({
+        el: '.vcomment',
+        notify: notify,
+        verify: verify,
+        appId: "<%= theme.plugins.valine.appId %>",
+        appKey: "<%= theme.plugins.valine.appKey %>",
+        avatar:"<%= theme.plugins.valine.avatar %>",
+        placeholder: "<%= theme.plugins.valine.placeholder %>",
+        guest_info:guest_info,
+        pageSize:"<%= theme.plugins.valine.pageSize %>",
+        highlight:"<%= theme.plugins.valine.highlight %>",
+        recordIP:"<%= theme.plugins.valine.recordIP %>",
+        visitor:"<%= theme.plugins.valine.visitor %>",
+        lang:"<%= theme.plugins.valine.lang %>",
+    })
+</script>
+<% } %>

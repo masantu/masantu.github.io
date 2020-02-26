@@ -1,5 +1,11 @@
 <%
     var cover = post.cover || post.photos[0] || theme.post_default_cover;
+    var subtitle = '';
+    if (post.subtitle && post.subtitle.length){
+        subtitle = post.subtitle;
+    }else if(post.excerpt && post.excerpt.length){
+        subtitle = post.excerpt;
+    }
 %>
 
 <div class="project-card">
@@ -9,8 +15,23 @@
     </div>
   <% } %>
   <div class="ctnWrap">
-    <a href="<%- url_for(post.path) %>" class="title"><%= post.title %></a>
-    <section class="desc"><%- partial('excerpt', { post: post }) %></section>
-    <p class="sub"><%- date(post.date, 'MMM D, YYYY') %></p>
+    <a href="<%- url_for(post.path) %>" class="title"><%= post.title || theme.default_post_title || "Untitled" %></a>
+
+    <% if (subtitle) { %>
+      <section class="desc"><%- subtitle %></section>
+    <% } %>
+
+    <p class="sub">
+        <% if(post.top) { %>
+            <i class="fa fa-thumb-tack pin-icon"></i>
+            <span class="badge color-span"><%- __('pin')%></span>
+            <span class="post-meta-divider"> | </span>
+        <% } %>
+        <!-- Date and Author -->
+        <% if(post.author) { %>
+            Posted by <%- post.author %> on
+        <% } %>
+        <%= post.date.format(config.date_format) %>
+    </p>
   </div>
 </div>
