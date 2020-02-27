@@ -62,6 +62,35 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
   display: block;
   margin-bottom: 1em; }
 
+.float-btn {
+  position: fixed;
+  right: 4px;
+  text-align: center;
+  background-color: #fff;
+  width: 40px;
+  line-height: 40px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: .3s;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.12);
+  z-index: 5; }
+  .float-btn i {
+    display: block;
+    border-radius: 20px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px; }
+    .float-btn i:hover {
+      opacity: .8;
+      color: #fff;
+      background-color: #35AA53; }
+
+.gotop {
+  bottom: 80px; }
+
+.feed-back {
+  bottom: 40px; }
+
 @font-face {
   font-family: 'BebasNeue';
   src: url("/fonts/BebasNeue.otf"); }
@@ -395,8 +424,8 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
     .article > .content p code {
       padding: 2px 4px;
       word-wrap: break-word;
-      color: #555;
-      background: #eee;
+      color: #eb4537;
+      background: #f9f2f4;
       border-radius: 3px;
       font-size: 13px; }
     .article > .content table {
