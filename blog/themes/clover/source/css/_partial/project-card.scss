@@ -6,6 +6,7 @@
   margin: 40px 0;
   background-color: white;
   color: #333;
+  &:hover {box-shadow: 0 4px 12px 12px rgba(7,17,27,0.15);}
   > .imgWrap {
     width: 320px;
     margin-right: 40px;

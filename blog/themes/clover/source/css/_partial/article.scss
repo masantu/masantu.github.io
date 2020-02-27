@@ -209,7 +209,6 @@ $brand-b-color: #004b6b;
     > .link {
       font-size: 16px;
       line-height: 22px;
-      max-width: 50%;
     }
   }
   @media screen and (max-width: 600px) {
@@ -217,6 +216,13 @@ $brand-b-color: #004b6b;
     margin: 20px 0;
     > footer {
       padding: 10px 0;
-    }
+      .f-fl,
+      .f-fr
+      {
+        padding-top: 10px;
+        text-align: center;
+        width: 100% !important;
+      }
+  }
   }
 }

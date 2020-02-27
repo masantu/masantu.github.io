@@ -1,14 +1,24 @@
 .pagination {
   padding: 20px;
-  background-color: white;
+  display: block;
+  //background-color: white;
   text-align: center;
   > .prev, > .next {
     margin: 0 10px;
   }
   > .page-number {
-    margin: 0 10px;
+    display: inline-block;
+    margin: 0 0.2rem;
+    font-size: .8rem;
+    min-width: 1.2rem;
+    height: 1.2rem;
+    text-align: center;
+    line-height: 1.2rem;
+    cursor: pointer;
     &.current {
-      text-decoration: underline;
+      background: #35aa53;
+      color: #fff;
+      cursor: default;
     }
   }
 }

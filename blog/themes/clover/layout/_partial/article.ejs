@@ -3,10 +3,7 @@
   <p class="sub"><%- date(post.date, 'MMM D, YYYY') %></p>
   <article class="content">
     <%- post.content %>
-    <!-- Comments -->
-    <% if (post.comment != false) { %>
-        <%- partial("_partial/comments.ejs") %>
-    <% } %>
+
   </article>
   <footer class="f-cf">
     <% if (post.prev) { %>
@@ -16,4 +13,8 @@
       <a href="<%- url_for(post.next.path) %>" class="link f-fr"><%= post.next.title %>⟶</a>
     <% } %>
   </footer>
+    <!-- Comments -->
+    <% if (post.comment != false) { %>
+        <%- partial("_partial/comments.ejs") %>
+    <% } %>
 </section>
