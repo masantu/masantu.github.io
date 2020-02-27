@@ -45,6 +45,10 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
 .read-bf-com {
   font-size: 13px;
   margin-bottom: 5px; }
+  .read-bf-com > a {
+    color: #e11111;
+    text-decoration: none;
+    border-bottom: dotted 1px #ababab; }
 
 .color-span {
   background-color: #f56c6c !important; }
@@ -188,14 +192,23 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
 
 .pagination {
   padding: 20px;
-  background-color: white;
+  display: block;
   text-align: center; }
   .pagination > .prev, .pagination > .next {
     margin: 0 10px; }
   .pagination > .page-number {
-    margin: 0 10px; }
+    display: inline-block;
+    margin: 0 0.2rem;
+    font-size: .8rem;
+    min-width: 1.2rem;
+    height: 1.2rem;
+    text-align: center;
+    line-height: 1.2rem;
+    cursor: pointer; }
     .pagination > .page-number.current {
-      text-decoration: underline; }
+      background: #35aa53;
+      color: #fff;
+      cursor: default; }
 
 .project-card {
   display: flex;
@@ -205,6 +218,8 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
   margin: 40px 0;
   background-color: white;
   color: #333; }
+  .project-card:hover {
+    box-shadow: 0 4px 12px 12px rgba(7, 17, 27, 0.15); }
   .project-card > .imgWrap {
     width: 320px;
     margin-right: 40px;
@@ -421,14 +436,18 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
     border-top: solid 1px #eee; }
     .article > footer > .link {
       font-size: 16px;
-      line-height: 22px;
-      max-width: 50%; }
+      line-height: 22px; }
   @media screen and (max-width: 600px) {
     .article {
       padding: 20px 20px 0;
       margin: 20px 0; }
       .article > footer {
-        padding: 10px 0; } }
+        padding: 10px 0; }
+        .article > footer .f-fl,
+        .article > footer .f-fr {
+          padding-top: 10px;
+          text-align: center;
+          width: 100% !important; } }
 
 .archive {
   padding: 80px 160px;

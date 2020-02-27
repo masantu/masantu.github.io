@@ -31,6 +31,10 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
 .read-bf-com {
   font-size: 13px;
   margin-bottom: 5px; }
+  .read-bf-com > a {
+    color: #e11111;
+    text-decoration: none;
+    border-bottom: dotted 1px #ababab; }
 
 .color-span {
   background-color: #f56c6c !important; }
