@@ -25,6 +25,11 @@ comments:
     comment_count: 5
     comment_colorscheme: light
 
+# Fill in your Baidu Tongji  tracking ID to enable Baidu Tongji.
+baidu_tongji:
+  enabled: true
+  id: 227d0272c3ee3d56e68ea3d273217057
+
 # Social media
 social:
 #  Dribbble: https://dribbble.com/clovertuan

@@ -1,5 +1,5 @@
 title: 说说“不可说”
-cover: /images/blur-brainstorming-chatting-1881333.jpg
+cover: /images/Snipaste_2018-08-11_12-11-410.png
 tags:
   - 原创
   - 心理

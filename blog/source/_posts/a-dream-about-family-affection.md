@@ -2,7 +2,7 @@
 title: 可别说“我以后不回家”
 date: 2019-12-21 07:35:52
 cover: /images/amazing-beautiful-breathtaking-clouds.jpg
-subtitle: 成功的人对母亲都很感恩
+subtitle: 神也有到不了的地方，所以创造了妈妈
 tags:
 - 亲情
 - 母亲

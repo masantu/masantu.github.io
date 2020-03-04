@@ -17,7 +17,7 @@
         posts: _.orderBy(posts, function (post) {
           return post.date;
         }, 'desc'),
-        category: category,
+        category: category
       })
     }, []);
     groupPosts = _.orderBy(groupPosts, 'category', 'asc');

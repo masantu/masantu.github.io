@@ -1,7 +1,13 @@
 <section class="article">
   <h2 class="title"><%= post.title %></h2>
   <p class="sub"><%- date(post.date, 'MMM D, YYYY') %></p>
+    <!-- Gallery -->
+    <% if (post.photos && post.photos.length){ %>
+        <%- partial('gallery') %>
+    <% } %>
   <article class="content">
+
+      
     <%- post.content %>
 
   </article>
