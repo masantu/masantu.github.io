@@ -1,11 +1,11 @@
 <footer id="footer" class="f-cf">
     <a href="mailto:imsantu.ma@gmail.com" rel="external nofollow noreferrer" target="_blank"><%= theme.mail %></a>
   <% if (theme.social) { %>
-    <% _.forEach(theme.social, function(value, key) { %>
+    <% _.forEach(theme.footer, function(value, key) { %>
       <% if (value) { %>
         · <a href="<%= url_for(value) %>" target="_blank" class="nav-icn"><%= key %></a>
       <% } %>
     <% }); %>
   <% } %>
-  <span class="copyright"><%= theme.copyright %></span>
+  <span class="copyright">Copyright &copy; 2017 - <%= date(new Date(), 'YYYY') %> <a href="//www.masantu.com/" target="_blank"><%= theme.copyright || config.author %></a>. All Rights Reserved.</span>
 </footer>

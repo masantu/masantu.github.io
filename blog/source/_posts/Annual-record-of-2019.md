@@ -135,7 +135,7 @@ date: 2019-12-29 23:26:19
 
 汹涌澎湃之间，心怀善念的人们或许很难被生活赐予高光奇迹；但是浮萍之末的细微处，依然存在着创榛辟莽的壮举。通往未来的探路之役，我们身体力行体会生活赋予的真实体验；裹挟在时代夹缝之中，我们上下求索寻找属于自己的罗陀斯。`消除恐惧的最好办法就是面对恐惧。加油，奥利给`！💪
 
-<meting-js fixed="true" autoplay="true" auto="https://music.163.com/#/song?id=449578813">
+<meting-js fixed="true" autoplay="false" auto="https://music.163.com/#/song?id=449578813">
 </meting-js>
 
 > 成长是一场冒险

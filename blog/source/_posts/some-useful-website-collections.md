@@ -21,6 +21,8 @@ top: 1
 - [Bigipg | AI 人工智能图片放大](https://bigjpg.com/)
 - [iLoveIMG | 图片处理](https://www.iloveimg.com/zh-cn/watermark-image)
 - [Tinypng | 图片无损压缩](https://tinypng.com/)
+- [Convertio — 文件转换器](https://convertio.co/zh/)
+- [FREE MP3 ▷ Free Music Downloads 全平台免费音乐下载](http://tool.liumingye.cn/music/)
 
 ## 图片类
 - [图片交给它 | 各种图片处理工具](https://guozh.net/picture-tools/)
