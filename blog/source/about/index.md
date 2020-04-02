@@ -8,9 +8,9 @@ date: 2017-11-18 15:24:37
 
 <figcaption > 病木重生 · 2018 年摄于北京·香山</figcaption >
 
-<div class="big-head">
+<h2 class="big-head">
   <i class="fa fa-user"></i>    自述
-</div>
+</h2>
 
 ### 关于站名
 
@@ -68,18 +68,18 @@ date: 2017-11-18 15:24:37
 唯有文字能担当此任，宣告生命曾经在场。
 {% endblockquote %}
 
-<div class="big-head">
+<h2 class="big-head">
   <i class="fa fa-heartbeat"></i>   致敬
-</div>
+</h2>
 
 - 向祖师爷、BDFL、`Python`语言的缔造者—— [_Guido van Rossum_](https://gvanrossum.github.io/) 致以崇高的敬意；
 - 向互联网精神布道者、理想主义者、 `web.py` 的作者—— *The Internet's Own Boy:Aaron Swartz* 致以崇高的敬意；  
     - 了解网友对他的评价请戳：[亚伦·斯沃茨 (Aaron Swartz) 是怎么样一个人？](https://www.zhihu.com/question/20711220)
     - 通过雪泥鸿爪了解其个性一面：[The web.py Philosophy](http://webpy.org/philosophy)
 
-<div class="big-head">
+<h2 class="big-head">
   <i class="fa fa-bell"></i>    其他
-</div>
+</h2>
 
 {% blockquote 曹禺,《日出》· 跋%}
 这样我挨过许多煎熬的夜晚，于是我读《老子》，读《佛经》，读《圣经》，我读多少那被认为洪水猛兽的书籍。我流着眼泪，赞美着这些伟大的孤独的心灵。他们怀着悲哀驼负人间的酸辛，为这些不肖的子孙开辟大路。但我更恨人群中一些冥顽不灵的自命为“人”的这一类的动物。他们偏若充耳不闻，不肯听旷野里那伟大的凄厉的唤声。他们闭着眼，情愿做地穴里的鼹鼠，避开阳光，鸵鸟似的把头插在愚蠢里。我忍耐不下了，我渴望着一线阳光。我想太阳我多半不及见了，但我也愿望我这一生里能看到平地里轰起一声巨雷，把这群盘踞在地面上得魑魅魍魉击个糜烂，哪怕因而大陆便沉为海。我还是年轻，不尽的令人发指的回忆围攻着我，我想不出一条智慧的路，顾虑的万分周全。冲到我的口上，是我在书房里摇头晃脑背通本《书经》的时代，最使一个小孩动魄惊心的一句切齿的誓言：“时日曷丧，予及汝皆亡！”（见《商书·汤誓》）萦绕于心的也是一种暴风雨来临之感。我恶毒地诅咒四周的不公平，除了去掉这群糜烂的人们，我看不出眼前有多少光明。诚如《旧约》那热情的耶利米所呼号的，“我观看地，地是空虚混沌；我观看天，天也无光”。我感觉到大地震来临前那种“烦躁不安”，我眼看着要地崩山惊，“肥田变为荒地，城邑要被拆毁”，在这种心情下，“我已经听见角声和打仗的喊声”。我要写一点东西，宣泄这一腔愤懑，我要喊“你们末日到了”！对这帮荒淫无耻，丢弃了太阳的人们。
@@ -91,11 +91,11 @@ date: 2017-11-18 15:24:37
 
 <sup>①</sup> 给 comp.lang.python Usenet 小组的留言，2002 年 12 月 23 日，“Acrimony in c.l.p”。
 
-<div class="big-head">
+<h2 class="big-head">
   <i class="fa fa-comments"></i>   联系方式
-</div>
+</h2>
 
-- Email: imsantu.ma#gmail.com
+- Email: imoyao#126.com     📧[邮我](mailto:imoyao@126.com)
 - QQ: NDQ1NTY3ODg5
 - Others: imoyao or None :-)
 - 个人公众号：  
@@ -103,9 +103,9 @@ date: 2017-11-18 15:24:37
 <figcaption> IdealYard </figcaption>
 
 
-<div class="big-head">
+<h2 class="big-head">
   <i class="fa fa-heart"></i>   赞赏 
-</div>
+</h2>
 
 1. 本人没有经常性喝咖啡的习惯，偶尔的速溶咖啡亦可自费承担；
 2. 本 [*网站* ](https://www.masantu.com) 暂时托管于 [*GitHub Pages*](https://pages.github.com/)，并不会产生额外的维护费用；
@@ -116,8 +116,8 @@ date: 2017-11-18 15:24:37
 
 ![腾讯公益](/img/PublicWelfare-for-Children.jpg)
 
-<div class="big-head">
+<h2 class="big-head">
   <i class="fa fa-copyright"></i>   版权声明 <sub>（特殊声明除外）</sub>
-</div>
+</h2>
 
 本[*博客*](https://blog.masantu.com)（指子域名`blog.masantu.com`）下的所有文章仅供用户免费浏览、阅读，不支持无版权转载。如确有转载需求，请通过上方邮箱联系本人，征得本人同意后方可转载。

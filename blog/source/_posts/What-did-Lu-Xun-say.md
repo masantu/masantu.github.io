@@ -8,6 +8,7 @@ categories:
 - 悦读
 cover: /images/02be960495794ad9a1c726464f720e40.jpg
 author: 鲁迅
+subtitle: 这话我真说过。
 ---
 {% blockquote 《呐喊》·《狂人日记》 %}
 从来如此，便对么？

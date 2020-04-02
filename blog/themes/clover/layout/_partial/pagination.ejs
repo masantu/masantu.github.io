@@ -1,8 +1,9 @@
 <% if (page.prev || page.next) { %>
   <nav class="pagination">
     <%- paginator({
-      prev_text: '<span class="iconfont icon-arrow-left"></span>',
-      next_text: '<span class="iconfont icon-arrow-right"></span>',
+      prev_text: '<i class="iconfont icon-arrow-left"></i>',
+      next_text: '<i class="iconfont icon-arrow-right"></i>',
+      escape: false
     }) %>
   </nav>
 <% } %>

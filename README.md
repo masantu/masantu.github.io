@@ -3,9 +3,12 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/529245df-b440-43ae-b356-f2ac0fcb2b28/deploy-status)](https://app.netlify.com/sites/mst/deploys)
 用于存放Hexo源目录
 ## 更新日志
+- 2020-04-02
+    新加脚注功能
+    - 参考[markdown - How do I more efficiently insert footnotes into a Hexo post? - Stack Overflow](https://stackoverflow.com/questions/36724430/how-do-i-more-efficiently-insert-footnotes-into-a-hexo-post)
 - 2020-01-16
     更改主题，使用 [hexo-theme-clover](https://github.com/esappear/hexo-theme-clover)
-    参考了：
+    参考：
      - https://github.com/anscor/hexo-theme-clover
 ---
 - 2019-12-28
