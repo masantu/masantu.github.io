@@ -1,7 +1,7 @@
 ---
 title: 与 COVID-19 有关的记忆
 date: 2020-03-12 22:09:34
-cover: /images/20200312214226-cover.png
+cover: /images/COVID-19.jpg
 tags:
 - 记忆
 - COVID-19
@@ -40,3 +40,7 @@ subtitle: 不必时时怀念我，也不要指望我回来，我离开以后，�
 > 中国人总是被他们之中最勇敢的人保护得很好。
 
  出处未知，参见[中国总是被他们最勇敢的人保护得很好。这句话到底出自哪里？ - 知乎](https://www.zhihu.com/question/368712715)
+
+## 更多
+
+[我们的时代：2 0 2 0 来自亭林镇无业青年 - 微博](https://weibo.com/2577139143/Iz0bRzseY)

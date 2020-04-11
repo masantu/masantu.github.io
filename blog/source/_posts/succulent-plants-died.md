@@ -4,6 +4,7 @@ date: 2018-02-06 22:19:49
 tags:
 - 多肉
 - 情感
+categories: 有时也矫情
 cover: /images/andreas-vendelbo-kjUA2hfS1hk-unsplash.jpg
 ---
 我养的多肉，死了。

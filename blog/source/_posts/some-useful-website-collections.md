@@ -2,6 +2,7 @@
 title: 一些有用的网站集合
 date: 2019-09-22 15:40:40
 cover: /images/colorful.jpg
+categories: 今天也是“马来人”
 tags:
 - 工具
 - 网站
@@ -45,6 +46,7 @@ top: 1
 ## 电子阅读类
 - [中國哲學書電子化計劃](https://ctext.org/zh)  
 - [中文马克思主义文库](https://www.marxists.org/chinese/index.html)
+- [布客新知](http://it-ebooks.flygon.net/)
 
 ## 搜索类
 - [多吉搜索](https://dogedoge.com)  
