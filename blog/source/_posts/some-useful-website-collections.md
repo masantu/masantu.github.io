@@ -34,6 +34,9 @@ top: 1
 - [iLoveIMG | 图片处理](https://www.iloveimg.com/zh-cn/watermark-image)
 - [Tinypng | 图片无损压缩](https://tinypng.com/)
 - [图片交给它 | 各种图片处理工具](https://guozh.net/picture-tools/)
+- [Transparent Textures|非常好看的纹理背景图](https://www.transparenttextures.com/)
+- [Subtle Patterns | Free textures for your next web project](https://www.toptal.com/designers/subtlepatterns/)
+- [Mockup Photos - High quality mockup templates from around the world](https://mockup.photos/)
 
 ## 无版权图片
 - [bing 壁纸](https://bing.ioliu.cn/)

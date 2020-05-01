@@ -25,6 +25,11 @@ $brand-b-color: #004b6b;
       line-height: 40px;
       margin-bottom: 15px;
     }
+    hr{
+      max-width: 60%;
+      border-top: 1px solid #5e616d;
+      margin: 4em auto;
+    }
     //文章页图片居中
     img {
       max-width: 100% !important;
@@ -116,7 +121,8 @@ $brand-b-color: #004b6b;
       border-radius: .4em;
       border-left: .3em solid #de1c31;
       font-weight: 500;
-      font-family: 'Open Sans', "Helvetica Neue", "Helvetica", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
+      font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, 'STKaiti', 'KaiTi', '楷体', "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
+      //font-family: 'Open Sans', "Helvetica Neue", "Helvetica", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
 
       > :last-child {
         margin-bottom: 0;
