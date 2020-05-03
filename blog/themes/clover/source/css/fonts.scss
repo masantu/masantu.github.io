@@ -7,6 +7,45 @@
   font-family: 'MaturaScriptCapitals';
   src: url('/fonts/MaturaMTScriptCapitals.ttf');
 }
+//方正细金陵简体
+@font-face {
+  font-family: 'FZXiJinLJW';
+  src: url('/fonts/FZXiJinLJW.ttf');
+}
+//方正宋刻本秀楷简
+//https://cdn.jsdelivr.net/gh/masantu/statics@FZSKBXKJ/fonts/FZSKBXKJ/
+@font-face {
+  font-family: 'FZSKBXKJ';
+  src: url("https://cdn.jsdelivr.net/gh/masantu/statics@FZSKBXKJ/fonts/FZSKBXKJ/fzskbxkj-webfont.woff2") format("woff2"),
+       url("https://cdn.jsdelivr.net/gh/masantu/statics@FZSKBXKJ/fonts/FZSKBXKJ/fzskbxkj-webfont.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/masantu/statics@FZSKBXKJ/fonts/FZSKBXKJ/fzskbxkj-webfont.ttf") format("truetype"),
+       url("https://cdn.jsdelivr.net/gh/masantu/statics@FZSKBXKJ/fonts/FZSKBXKJ/fzskbxkj-webfont.eot") format("embedded-opentype"),
+       url("https://cdn.jsdelivr.net/gh/masantu/statics@FZSKBXKJ/fonts/FZSKBXKJ/fzskbxkj-webfont.svg") format("svg"),
+       url("https://cdn.jsdelivr.net/gh/masantu/statics@FZSKBXKJ/fonts/FZSKBXKJ/fzskbxkj-webfont.otf") format("opentype");
+}
+
+//方正书宋
+@font-face {
+  font-family: 'FZSSJW';
+  src: url('/fonts/FZSSJW.TTF');
+}
+
+//汉仪全唐诗简体
+@font-face {
+  font-family: 'HYQTSJ';
+  src: url('/fonts/HYQTSJ.TTF');
+}
+
+/*//方正清刻本悦宋简体*/
+@font-face {
+  font-family: "FZQKBYSJT";
+  src: url("https://cdn.jsdelivr.net/gh/masantu/statics@v1.0/fonts/simple/FZQKBYSJT.woff2") format("woff2"),
+       url("https://cdn.jsdelivr.net/gh/masantu/statics@v1.0/fonts/simple/FZQKBYSJT.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/masantu/statics@v1.0/fonts/simple/FZQKBYSJT.ttf") format("truetype"),
+       url("https://cdn.jsdelivr.net/gh/masantu/statics@v1.0/fonts/simple/FZQKBYSJT.eot") format("embedded-opentype"),
+       url("https://cdn.jsdelivr.net/gh/masantu/statics@v1.0/fonts/simple/FZQKBYSJT.svg") format("svg"),
+       url("https://cdn.jsdelivr.net/gh/masantu/statics@v1.0/fonts/simple/FZQKBYSJT.otf") format("opentype");
+}
 
 @font-face {
   font-family: 'iconfont';  /* project id 1658685 */
