@@ -100,6 +100,27 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
   src: url("/fonts/MaturaMTScriptCapitals.ttf"); }
 
 @font-face {
+  font-family: 'FZXiJinLJW';
+  src: url("/fonts/FZXiJinLJW.ttf"); }
+
+@font-face {
+  font-family: 'FZSKBXKJ';
+  src: url("https://cdn.jsdelivr.net/gh/masantu/statics@FZSKBXKJ/fonts/FZSKBXKJ/fzskbxkj-webfont.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/masantu/statics@FZSKBXKJ/fonts/FZSKBXKJ/fzskbxkj-webfont.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/masantu/statics@FZSKBXKJ/fonts/FZSKBXKJ/fzskbxkj-webfont.ttf") format("truetype"), url("https://cdn.jsdelivr.net/gh/masantu/statics@FZSKBXKJ/fonts/FZSKBXKJ/fzskbxkj-webfont.eot") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/masantu/statics@FZSKBXKJ/fonts/FZSKBXKJ/fzskbxkj-webfont.svg") format("svg"), url("https://cdn.jsdelivr.net/gh/masantu/statics@FZSKBXKJ/fonts/FZSKBXKJ/fzskbxkj-webfont.otf") format("opentype"); }
+
+@font-face {
+  font-family: 'FZSSJW';
+  src: url("/fonts/FZSSJW.TTF"); }
+
+@font-face {
+  font-family: 'HYQTSJ';
+  src: url("/fonts/HYQTSJ.TTF"); }
+
+/*//方正清刻本悦宋简体*/
+@font-face {
+  font-family: "FZQKBYSJT";
+  src: url("https://cdn.jsdelivr.net/gh/masantu/statics@v1.0/fonts/simple/FZQKBYSJT.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/masantu/statics@v1.0/fonts/simple/FZQKBYSJT.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/masantu/statics@v1.0/fonts/simple/FZQKBYSJT.ttf") format("truetype"), url("https://cdn.jsdelivr.net/gh/masantu/statics@v1.0/fonts/simple/FZQKBYSJT.eot") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/masantu/statics@v1.0/fonts/simple/FZQKBYSJT.svg") format("svg"), url("https://cdn.jsdelivr.net/gh/masantu/statics@v1.0/fonts/simple/FZQKBYSJT.otf") format("opentype"); }
+
+@font-face {
   font-family: 'iconfont';
   /* project id 1658685 */
   src: url("//at.alicdn.com/t/font_1658685_os8gmfiv18.eot");
@@ -154,9 +175,11 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
       font-size: 45px;
       line-height: 53px;
       color: #333;
-      font-family: Futura; }
+      font-family: Futura, serif; }
       #nav > .header > .title:hover {
         opacity: .7; }
+    #nav > .header > .subTitle {
+      margin: 10px 0; }
   #nav > .ctnWrap {
     display: flex;
     flex-wrap: wrap;
@@ -260,6 +283,7 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
   .project-card > .ctnWrap {
     flex: 1; }
     .project-card > .ctnWrap > .title {
+      font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, 'Open Sans','FZQKBYSJT', 'KaiTi', '楷体', "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
       font-weight: 600;
       font-size: 28px;
       line-height: 40px; }
@@ -319,6 +343,7 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
   font-size: 16px;
   line-height: 30px; }
   .article > .title {
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, 'Open Sans','FZQKBYSJT', 'KaiTi', '楷体', "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
     font-size: 28px;
     line-height: 40px;
     margin-bottom: 10px;
@@ -333,6 +358,10 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
       font-weight: 600;
       line-height: 40px;
       margin-bottom: 15px; }
+    .article > .content hr {
+      max-width: 60%;
+      border-top: 1px solid #5e616d;
+      margin: 4em auto; }
     .article > .content img {
       max-width: 100% !important;
       height: auto;
@@ -382,7 +411,7 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
         color: #409eff;
         border-bottom: solid 1px #409eff; }
     .article > .content strong {
-      font-weight: 600; }
+      font-weight: 500; }
     .article > .content figure > img {
       display: block; }
     .article > .content figcaption {
@@ -398,9 +427,9 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
       color: #697b8c;
       quotes: "\201C" "\201D" "\2018" "\2019";
       border-radius: .4em;
-      border-left: .3em solid #fe6c6f;
+      border-left: .3em solid #de1c31;
       font-weight: 500;
-      font-family: 'Open Sans', "Helvetica Neue", "Helvetica", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif; }
+      font-family: 'FZSKBXKJ', serif; }
       .article > .content blockquote > :last-child {
         margin-bottom: 0; }
       .article > .content blockquote p {
@@ -486,6 +515,7 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
       padding: 20px; } }
 
 .archive-category > .title {
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, 'Open Sans','FZQKBYSJT', 'KaiTi', '楷体', "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
   font-size: 28px;
   line-height: 40px;
   font-weight: 600; }
