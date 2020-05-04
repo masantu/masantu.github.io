@@ -429,7 +429,7 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
       border-radius: .4em;
       border-left: .3em solid #de1c31;
       font-weight: 500;
-      font-family: 'FZSKBXKJ', serif; }
+      font-family: 'FZSKBXKJ','KaiTi', '楷体', "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, serif; }
       .article > .content blockquote > :last-child {
         margin-bottom: 0; }
       .article > .content blockquote p {
