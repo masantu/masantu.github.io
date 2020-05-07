@@ -43,6 +43,9 @@ $brand-b-color: #004b6b;
       font-size: 16px;
       line-height: 30px;
       margin-bottom: 15px;
+      em {
+        font-style: italic;
+      }
     }
 
     pre, .highlight {
