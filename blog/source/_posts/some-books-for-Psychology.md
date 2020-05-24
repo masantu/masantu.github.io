@@ -5,7 +5,7 @@ tags:
 - 书籍
 - 心理学
 categories: 今天也是“马来人”
-cover: /images/Snipaste_2020-03-08_23-58-46.png
+cover: https://cdn.jsdelivr.net/gh/masantu/statics/image/Snipaste_2020-03-08_23-58-46.png
 ---
 来自豆瓣[丹朱 AI🌵 的广播](https://www.douban.com/people/59291955/status/2194359851/)
 ##  第一部分:心理学基础阅读书目推荐

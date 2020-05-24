@@ -101,14 +101,31 @@ search:
 
 # Markdown
 ## https://github.com/chjj/marked
-markdown:
+#markdown:
+#  gfm: true
+#  pedantic: false
+#  sanitize: false
+#  tables: true
+#  breaks: false
+#  smartLists: true
+#  smartypants: true
+#
+# https://github.com/hexojs/hexo-renderer-marked
+marked:
   gfm: true
   pedantic: false
-  sanitize: false
-  tables: true
-  breaks: false
+  breaks: true
   smartLists: true
   smartypants: true
+  modifyAnchors: 0
+  autolink: true
+  sanitizeUrl: false
+  headerIds: true
+  prependRoot: false
+  external_link:
+    enable: false
+    exclude: []
+    nofollow: false
 
 # encrypt plugin
 # https://github.com/MikeCoder/hexo-blog-encrypt
