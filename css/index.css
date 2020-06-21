@@ -371,6 +371,8 @@ blockquote ol:first-child, blockquote p:first-child, blockquote ul:first-child {
       font-size: 16px;
       line-height: 30px;
       margin-bottom: 15px; }
+      .article > .content p em {
+        font-style: italic; }
     .article > .content pre, .article > .content .highlight {
       overflow: auto;
       padding: 0;
