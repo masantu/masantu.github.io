@@ -1,7 +1,7 @@
 ---
 title: 男性和女性能成为异性密友吗？
 date: 2020-04-11 21:16:37
-cover: https://cdn.jsdelivr.net/gh/masantu/statics/image/friends.jpg
+cover: https://cdn.jsdelivr.net/gh/masantu/statics/images/friends.jpg
 tags:
 - 友谊
 - 亲密关系

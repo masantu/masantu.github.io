@@ -1,5 +1,5 @@
 title: 佛与姑娘
-cover: https://cdn.jsdelivr.net/gh/masantu/statics/image/p2449411368.jpg
+cover: https://cdn.jsdelivr.net/gh/masantu/statics/images/p2449411368.jpg
 tags:
   - 美文
   - 阅读

@@ -65,6 +65,11 @@ categories:
 > Life is too short to continue hating anyone for a long time.
 （生命太短暂了，没时间恨一个人那么久。）
 
+{%blockquote 《金缕曲》@李让眉, http://blog.sina.com.cn/s/blog_4c3616080100beo3.html%}
+薜巷余斑碧。算年年，短墙攀谢，一枝幽寂。逆望青檐成叠笠，栉影初乖危壁。是斜日，向隅沉默。柏荫单车谁久锁，怕回头隘陌荒如掷。多少事，入纷忆。
+
+履声重被尘踪拾。见而今，石年磨折，鬓丝衰白。凭径枯藤能忍觑？抱蔓那时归客。十年也，君怀遗摘。缘木自求沧海恨，看覆杯猜水成南北。值一笑，过肩侧。
+{%endblockquote%}
  
 ## 沼泽地
 
