@@ -1,7 +1,7 @@
 ---
 title: 翻译翻译，什么他妈的叫他妈的正能量？
 date: 2020-06-17 09:54:29
-tags
+tags: 社会
 ---
 距离上次写社会新闻已经过去快两年了，参见[家里穷和没背景，是平凡人的原罪吗？](https://mp.weixin.qq.com/s?__biz=MzU5OTM4ODMzMA==&mid=2247483770&idx=1&sn=bd0a3ec978a8eef8c5666eb9e96eef83&chksm=feb4f8bfc9c371a9dc04d62f8a8bbaffb5670d32009146cc7ec822d43dc511cd4a8cc672bdc8&token=245216887&lang=zh_CN#rd)。最近又有两则新闻，其一[当地教育局承认学校与钟美美接触：希望引导孩子拍正能量作品](https://mp.weixin.qq.com/s/H5oXaOmM6aCMe-qhBwrxEg)，其二[小学女生作文课后坠亡：悲剧是如何发生的？](https://mp.weixin.qq.com/s/E6nQlg6yYhRawXzzqtf5Aw)，一时间不吐不快。
 
