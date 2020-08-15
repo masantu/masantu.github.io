@@ -44,4 +44,3 @@ password: nibiecai
 最后附上一张两组颜色对比图：
 
 ![google-color]( https://cdn.jsdelivr.net/gh/masantu/statics/images/google-color.jpg)
-
