@@ -57,7 +57,7 @@ A：资本市场比猴还精。他们的利益：
 总之，可转债是持有人和上市公司实现双赢的品种。
 大家都赚了，那么到底谁被割韭菜了呢？持有正股的小散吃亏了。
 
-![算计着分小散的 Dollar](/images/earn-dollar.gif)
+![算计着分小散的 Dollar](/images/Let-The-Bullets-Fly/earn-dollar.gif)
 
 ## 如何进行可转债配置
 
