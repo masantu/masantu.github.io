@@ -9,7 +9,8 @@ cover: /images/zhong-lou.jpg
 subtitle: 安得广厦千万家，大庇天下寒士俱欢颜？
 ---
 准备买房，先做一些资源收集
-
+## 官网
+[服务平台--西安市住房和城乡建设局|西安市轨道交通建设办公室](http://zjj.xa.gov.cn/fw/fwpt/1.html)
 ## 地理位置
 [西安市卫星地图，西安市地图，电子地图_八九网](https://bajiu.cn/ditu/?id=367)
 ![行政划分图](/images/xian-fbt.jpeg)
