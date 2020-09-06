@@ -23,6 +23,7 @@ top: 1
 - [Online MP3 Cutter - Cut Songs, Make Ringtones](https://mp3cut.net/)
 - [OneDrive 网盘永久外链地址生成工具 OneDrive 直链在线生成 | Gimhoy Studio](https://onedrive.gimhoy.com/)
 - [云短信|免费在线接收手机短信验证码](https://yunduanxin.net/)
+- [天翼云盘直链解析 – 免费不限速 – 贝贝の站](https://xbeibeix.com/cloud189/)
 
 ## 网站类
 - [白噪音-A Soft Murmur](https://asoftmurmur.com/)

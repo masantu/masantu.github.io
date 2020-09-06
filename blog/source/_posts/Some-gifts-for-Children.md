@@ -12,7 +12,12 @@ hidden: true
 ## 动画
 
 - 《玛莎和熊》    
-[海外播放量第一的动画《玛莎和熊》是什么水平？ - 知乎](https://www.zhihu.com/question/366503763) 
+- [海外播放量第一的动画《玛莎和熊》是什么水平？ - 知乎](https://www.zhihu.com/question/366503763) 
+熊孩子，家庭教育
+- [《女巫的扫帚》 第86届奥斯卡最佳动画短片提名](https://v.qq.com/x/page/x30002bf4co.html)
+分享
+- [父亲与女儿-奥斯卡动画短片奖](https://v.qq.com/x/page/k3001twkd7w.html)
+死亡
 
 ## 书籍
 

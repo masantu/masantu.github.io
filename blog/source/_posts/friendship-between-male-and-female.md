@@ -4,7 +4,7 @@ date: 2020-04-11 21:16:37
 cover: https://cdn.jsdelivr.net/gh/masantu/statics/images/friends.jpg
 tags:
 - 友谊
-- 亲密关系
+- 《亲密关系》
 - 心理学
 categories:
 - 读书笔记
